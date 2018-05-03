@@ -1,0 +1,65 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Bypass Approval" />
+      <item value="Action Sheet" />
+      <item value="search" />
+      <item value="audit" />
+      <item value="All pre-implemented final methods are thread-safe." />
+      <item value="that allows asynchronous cancellation by implementing Disposable." />
+      <item value="changing" />
+      <item value="resource previously defined here." />
+      <item value="visible true if this is a visible configuration" />
+      <item value="Sets the visibility of this configuration. When visible is set to true, this configuration is visible outside * the project it belongs to. The default value is true." />
+      <item value="serial" />
+      <item value="distinct" />
+      <item value="identity" />
+      <item value="distinct according * to a key selector function." />
+      <item value="Does not work yet, also probably won't be faster than {@link Box#getAll()}." />
+      <item value="Temporary" />
+      <item value="less" />
+      <item value="Specifies relations that should be resolved eagerly." />
+      <item value="relations" />
+      <item value="eager" />
+      <item value="ongoing" />
+      <item value="parame" />
+      <item value="tranraction" />
+      <item value="separate thread" />
+      <item value="Push resumeArgs into the activity for consideration" />
+      <item value="consideration" />
+      <item value="Circular" />
+      <item value="cling" />
+      <item value="so we don't cling to the // activity." />
+      <item value="want" />
+      <item value="Otherwise we want the application context," />
+      <item value="System process doesn't have application context and in that case we need to directly use // the context we have." />
+      <item value="TRANSITIONS" />
+      <item value="The SourceSet 'instrumentTest' is not recognized by the Android Gradle Plugin. Perhaps you misspelled something?" />
+      <item value="Due to implementation constraints," />
+      <item value="Scrap" />
+      <item value="to avoid allocating views unnecessarily." />
+      <item value="potentially" />
+      <item value="demoted" />
+      <item value="construction" />
+      <item value="views which were onscreen at the * start of a layout." />
+      <item value="those" />
+      <item value="Scrap Views" />
+      <item value="The RecycleBin facilitates reuse of views across layouts." />
+      <item value="carousel" />
+      <item value="A list does * not have a spatial definition here." />
+      <item value="internal" />
+      <item value="Suppliers" />
+      <item value="Allows IDs to be assigned by the developer. This may make sense for using IDs originating somewhere else, e.g. * from the server." />
+      <item value="Specifies that the property should be indexed, which is highly recommended if you do queries using this property." />
+    </histories>
+  </component>
+  <component name="Settings">
+    <option name="translator" value="ai.youdao" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="599eb692e364732c" />
+        <option name="appKeyConfigured" value="true" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>
