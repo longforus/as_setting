@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="above" />
       <item value="Bypass Approval" />
       <item value="Action Sheet" />
       <item value="search" />
@@ -50,7 +51,6 @@
       <item value="internal" />
       <item value="Suppliers" />
       <item value="Allows IDs to be assigned by the developer. This may make sense for using IDs originating somewhere else, e.g. * from the server." />
-      <item value="Specifies that the property should be indexed, which is highly recommended if you do queries using this property." />
     </histories>
   </component>
   <component name="Settings">
