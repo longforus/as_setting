@@ -31,13 +31,19 @@
       <path value="Android" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Android.EnableDdms" is_action="true" action_type="1" position="2">
+    <group value="Android.RunLayoutInspector" is_action="true" action_type="1" position="2">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Android.MainToolBarActionGroup" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Android.RunDdms" is_action="true" action_type="1" position="3">
+    <group value="Android.EnableDdms" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Android.MainToolBarActionGroup" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Android.RunDdms" is_action="true" action_type="1" position="4">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Android.MainToolBarActionGroup" />
