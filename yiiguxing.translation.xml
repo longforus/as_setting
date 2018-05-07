@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Absent" />
       <item value="Neutral" />
       <item value="Bypass Approval" />
       <item value="Action Sheet" />
@@ -50,7 +51,6 @@
       <item value="A list does * not have a spatial definition here." />
       <item value="internal" />
       <item value="Suppliers" />
-      <item value="Allows IDs to be assigned by the developer. This may make sense for using IDs originating somewhere else, e.g. * from the server." />
     </histories>
   </component>
   <component name="Settings">
