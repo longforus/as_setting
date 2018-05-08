@@ -49,7 +49,7 @@
     <keyboard-shortcut first-keystroke="alt f2" />
   </action>
   <action id="GotoDeclaration">
-    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="control button1" />
   </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="ctrl p" />
