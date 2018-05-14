@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Scroll the children by amount, adding a view at the end and removing * views that fall off as necessary." />
       <item value="Fadein" />
       <item value="&gt;Typical use of a Recycler by a {@link LayoutManager} will be to obtain views for * an adapter's data set representing the data at a given position or item ID. * If the view to be reused is considered &quot;dirty&quot; the adapter will be asked to rebind it. * If not, the view can be quickly reused by the LayoutManager with no further work. * Clean views that have not {@link android.view.View#isLayoutRequested() requested layout} * may be repositioned by a LayoutManager without remeasurement.&lt;/p&gt;" />
       <item value="dirty" />
@@ -50,7 +51,6 @@
       <item value="to avoid allocating views unnecessarily." />
       <item value="potentially" />
       <item value="demoted" />
-      <item value="construction" />
     </histories>
   </component>
   <component name="Settings">
