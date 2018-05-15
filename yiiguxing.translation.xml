@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="discount Coupon Value" />
       <item value="Do not scroll if it would move this adapter * position out of view." />
       <item value="Scroll the children by amount, adding a view at the end and removing * views that fall off as necessary." />
       <item value="Fadein" />
@@ -50,7 +51,6 @@
       <item value="Due to implementation constraints," />
       <item value="Scrap" />
       <item value="to avoid allocating views unnecessarily." />
-      <item value="potentially" />
     </histories>
   </component>
   <component name="Settings">
