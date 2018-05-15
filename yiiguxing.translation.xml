@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="synthetic method" />
+      <item value="synthetic" />
       <item value="discount Coupon Value" />
       <item value="Do not scroll if it would move this adapter * position out of view." />
       <item value="Scroll the children by amount, adding a view at the end and removing * views that fall off as necessary." />
@@ -49,8 +51,6 @@
       <item value="TRANSITIONS" />
       <item value="The SourceSet 'instrumentTest' is not recognized by the Android Gradle Plugin. Perhaps you misspelled something?" />
       <item value="Due to implementation constraints," />
-      <item value="Scrap" />
-      <item value="to avoid allocating views unnecessarily." />
     </histories>
   </component>
   <component name="Settings">
