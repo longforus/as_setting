@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Revert the put, old class is further down the class hierarchy" />
+      <item value="Only add if not already found in a sub class" />
+      <item value="Determines if the class or interface represented by this * {@code Class} object is either the same as, or is a superclass or * superinterface of, the class or interface represented by the specified * {@code Class} parameter. It returns {@code true} if so; * otherwise it returns {@code false}. If this {@code Class} * object represents a primitive type, this method returns * {@code true} if the specified {@code Class} parameter is * exactly this {@code Class} object; otherwise it returns * {@code false}." />
       <item value="synthetic method" />
       <item value="synthetic" />
       <item value="discount Coupon Value" />
@@ -48,9 +51,6 @@
       <item value="want" />
       <item value="Otherwise we want the application context," />
       <item value="System process doesn't have application context and in that case we need to directly use // the context we have." />
-      <item value="TRANSITIONS" />
-      <item value="The SourceSet 'instrumentTest' is not recognized by the Android Gradle Plugin. Perhaps you misspelled something?" />
-      <item value="Due to implementation constraints," />
     </histories>
   </component>
   <component name="Settings">
