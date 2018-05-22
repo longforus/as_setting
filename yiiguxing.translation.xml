@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unreasonably" />
       <item value="number of retry attempts before failing" />
       <item value="Revert the put, old class is further down the class hierarchy" />
       <item value="Only add if not already found in a sub class" />
@@ -50,7 +51,6 @@
       <item value="cling" />
       <item value="so we don't cling to the // activity." />
       <item value="want" />
-      <item value="Otherwise we want the application context," />
     </histories>
   </component>
   <component name="Settings">
