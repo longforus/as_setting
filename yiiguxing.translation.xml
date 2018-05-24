@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Shown By Me" />
       <item value="mortgage Bucket" />
       <item value="Unreasonably" />
       <item value="number of retry attempts before failing" />
@@ -50,7 +51,6 @@
       <item value="consideration" />
       <item value="Circular" />
       <item value="cling" />
-      <item value="so we don't cling to the // activity." />
     </histories>
   </component>
   <component name="Settings">
