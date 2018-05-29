@@ -1,4 +1,9 @@
 <application>
+  <component name="AppStorage">
+    <histories>
+      <item value="white - space" />
+    </histories>
+  </component>
   <component name="Settings">
     <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
