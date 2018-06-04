@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Rich Editor" />
+      <item value="Rich" />
       <item value="on Detached From Recycler View" />
       <item value="position" />
       <item value="isreply = screeningBean.getScreeningType1(); logType = screeningBean.getScreeningType2();" />
