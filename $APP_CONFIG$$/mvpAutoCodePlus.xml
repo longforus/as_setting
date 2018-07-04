@@ -1,0 +1,11 @@
+<application>
+  <component name="mvpAutoCodePlus">
+    <property name="super_model" value="com.fec.core.inf.IModel" />
+    <property name="super_model_impl" value="" />
+    <property name="super_presenter" value="com.fec.core.inf.IPresenter&lt;V&gt;" />
+    <property name="super_presenter_impl" value="" />
+    <property name="super_view" value="com.fec.core.inf.IView" />
+    <property name="super_view_activity" value="" />
+    <property name="super_view_fragment" value="" />
+  </component>
+</application>

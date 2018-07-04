@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="generic" />
+      <item value="generic by MvpAutoCodePlus plugin." />
       <item value="use Capital" />
       <item value="usable Capital" />
       <item value="informative" />
