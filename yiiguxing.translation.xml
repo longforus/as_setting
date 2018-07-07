@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Base class for activities that use the" />
+      <item value="Base" />
+      <item value="You can add an {@link android.support.v7.app.ActionBar} to your activity when running on API level 7 or higher * by extending this class for your activity and setting the activity theme to" />
+      <item value="For information about how to use the action bar, including how to add action items, navigation * modes and more, read the" />
+      <item value="For information about how to use the action bar, including how to add action items" />
+      <item value="information" />
+      <item value="Override" />
+      <item value="I Login Contract" />
+      <item value="protected" />
+      <item value="saved Instance State" />
       <item value="generic" />
       <item value="generic by MvpAutoCodePlus plugin." />
       <item value="use Capital" />
@@ -26,6 +36,7 @@
       <youdao-translate>
         <option name="appId" value="599eb692e364732c" />
         <option name="appKeyConfigured" value="true" />
+        <option name="primaryLanguage" value="CHINESE" />
       </youdao-translate>
     </option>
   </component>
