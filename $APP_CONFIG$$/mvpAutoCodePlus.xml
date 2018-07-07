@@ -1,11 +1,12 @@
 <application>
   <component name="mvpAutoCodePlus">
-    <property name="super_model" value="com.fec.core.inf.IModel" />
-    <property name="super_model_impl" value="" />
-    <property name="super_presenter" value="com.fec.core.inf.IPresenter&lt;V&gt;" />
-    <property name="super_presenter_impl" value="" />
-    <property name="super_view" value="com.fec.core.inf.IView" />
-    <property name="super_view_activity" value="" />
-    <property name="super_view_fragment" value="" />
+    <property name="comment_author" value="longforus" />
+    <property name="super_model" value="com.longforus.base.java.IModel" />
+    <property name="super_model_impl" value="com.longforus.base.java.DefaultDisposablePoolImpl" />
+    <property name="super_presenter" value="com.longforus.base.java.IPresenter&lt;V&gt;" />
+    <property name="super_presenter_impl" value="com.longforus.base.java.BasePresenterJv&lt;V,M&gt;" />
+    <property name="super_view" value="com.longforus.base.java.IView" />
+    <property name="super_view_activity" value="com.longforus.base.java.BaseMvpActivity&lt;V,P&gt;" />
+    <property name="super_view_fragment" value="com.longforus.base.java.BaseMvpFragment&lt;V,P&gt;" />
   </component>
 </application>
