@@ -5,7 +5,7 @@
     <property name="super_model_impl" value="com.longforus.base.java.DefaultDisposablePoolImpl" />
     <property name="super_presenter" value="com.longforus.base.java.IPresenter&lt;V&gt;" />
     <property name="super_presenter_impl" value="com.longforus.base.java.BasePresenterJv&lt;V,M&gt;" />
-    <property name="super_view" value="com.longforus.base.java.IView" />
+    <property name="super_view" value="com.fec.core.inf.IView" />
     <property name="super_view_activity" value="com.longforus.base.java.BaseMvpActivity&lt;V,P&gt;" />
     <property name="super_view_fragment" value="com.longforus.base.java.BaseMvpFragment&lt;V,P&gt;" />
   </component>
