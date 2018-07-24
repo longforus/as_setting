@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pay State" />
+      <item value="receipt State" />
       <item value="validate Eagerly" />
       <item value="but it forces composition of API declarations which is // the recommended pattern." />
       <item value="Prevent" />
