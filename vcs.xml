@@ -110,6 +110,10 @@
           <option name="url" value="https://github.com/danny-source/List-USB-OTG.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/OsmarICancino/read-arduino-android-otg-usb.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\AndroidStudioProjects\Demo" />
