@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Guarded" />
+      <item value="Guarded By" />
+      <item value="The field or method to which this annotation is applied can only be accessed * when holding a particular lock, which may be a built-in (synchronization) * lock, or may be an explicit {@link java.util.concurrent.locks.Lock}." />
+      <item value="pay State" />
+      <item value="receipt State" />
+      <item value="validate Eagerly" />
+      <item value="but it forces composition of API declarations which is // the recommended pattern." />
+      <item value="Prevent" />
       <item value="Data of file can not be empty" />
       <item value="Destructive" />
       <item value="Inset" />
