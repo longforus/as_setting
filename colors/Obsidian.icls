@@ -44,6 +44,7 @@
     <option name="SELECTION_BACKGROUND" value="1b6291" />
     <option name="SELECTION_FOREGROUND" value="d3d6e4" />
     <option name="TEARLINE_COLOR" value="3f585b" />
+    <option name="VISUAL_INDENT_GUIDE" value="3a4a4b" />
     <option name="WHITESPACES" value="505050" />
   </colors>
   <attributes>
