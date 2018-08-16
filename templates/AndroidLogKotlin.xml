@@ -5,7 +5,7 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
-  <template name="logi" value="com.fec.fecCommon.utils.LogUtils.i(TAG, &quot;$METHOD_NAME$: $content$&quot;)" description="logi" toReformat="false" toShortenFQNames="true">
+  <template name="logi" value="com.fec.core.utils.LogUtils.i(TAG, &quot;$METHOD_NAME$: $content$&quot;)" description="logi" toReformat="false" toShortenFQNames="true">
     <variable name="METHOD_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
