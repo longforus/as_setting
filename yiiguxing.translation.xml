@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ordinal" />
+      <item value="funding Account" />
       <item value="Fetcher" />
       <item value="Cashier" />
       <item value="Sink" />
@@ -47,8 +49,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="2" />
+        <entry key="CHINESE" value="4" />
+        <entry key="ENGLISH" value="3" />
+        <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
   </component>
