@@ -6,17 +6,6 @@
   <action id="ActivateAndroidMonitorToolWindow">
     <keyboard-shortcut first-keystroke="alt 6" />
   </action>
-  <action id="ActivateBuildToolWindow">
-    <keyboard-shortcut first-keystroke="alt 3" />
-  </action>
-  <action id="ActivateFavoritesToolWindow" />
-  <action id="ActivateLogcatToolWindow">
-    <keyboard-shortcut first-keystroke="alt 4" />
-  </action>
-  <action id="ActivateRunToolWindow" />
-  <action id="ActivateStructureToolWindow">
-    <keyboard-shortcut first-keystroke="alt 2" />
-  </action>
   <action id="ActivateTODOToolWindow" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
@@ -48,9 +37,6 @@
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt f2" />
   </action>
-  <action id="GotoDeclaration">
-    <mouse-shortcut keystroke="control button1" />
-  </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="ctrl p" />
     <keyboard-shortcut first-keystroke="ctrl context_menu" />
@@ -76,4 +62,6 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="sortEnd" />
+  <action id="sortStart" />
 </keymap>

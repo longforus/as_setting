@@ -1,5 +1,6 @@
 <scheme name="Obsidian" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
+  <option name="LINE_SPACING" value="1.0" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
     <option name="EDITOR_FONT_SIZE" value="15" />
@@ -44,7 +45,6 @@
     <option name="SELECTION_BACKGROUND" value="1b6291" />
     <option name="SELECTION_FOREGROUND" value="d3d6e4" />
     <option name="TEARLINE_COLOR" value="3f585b" />
-    <option name="VISUAL_INDENT_GUIDE" value="3a4a4b" />
     <option name="WHITESPACES" value="505050" />
   </colors>
   <attributes>
@@ -586,6 +586,13 @@
       <value>
         <option name="FOREGROUND" value="5253ff" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="KOTLIN_ANDROID_EXTENSIONS_PROPERTY_CALL">
+      <value>
+        <option name="FOREGROUND" value="51d5ff" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="KOTLIN_ANNOTATION">
