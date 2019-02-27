@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="target Compatibility" />
+      <item value="renderscript Target Api" />
       <item value="dim Behind" />
       <item value="BEHIND" />
       <item value="Evaluate" />
@@ -11,15 +13,14 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="CHINESE" value="9" />
+        <entry key="ENGLISH" value="12" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
-    <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="599eb692e364732c" />
