@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="expert" />
       <item value="target Compatibility" />
       <item value="renderscript Target Api" />
       <item value="dim Behind" />
@@ -14,7 +15,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="ENGLISH" value="13" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
