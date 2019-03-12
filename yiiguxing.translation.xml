@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="on Metadata Retrieve Error" />
+      <item value="on Current Queue Index Updated" />
+      <item value="Retrieve" />
       <item value="ratio" />
       <item value="expert" />
       <item value="target Compatibility" />
@@ -15,14 +18,16 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="15" />
+        <entry key="CHINESE" value="12" />
+        <entry key="ENGLISH" value="19" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
+    <option name="targetLanguageSelection" value="LAST" />
+    <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="599eb692e364732c" />
