@@ -686,6 +686,16 @@
         <option name="FOREGROUND" value="506db1" />
       </value>
     </option>
+    <option name="KOTLIN_EXTENSION_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="87b0d6" />
+      </value>
+    </option>
+    <option name="KOTLIN_EXTENSION_PROPERTY">
+      <value>
+        <option name="FOREGROUND" value="87b0d6" />
+      </value>
+    </option>
     <option name="KOTLIN_FUNCTION_CALL">
       <value>
         <option name="FOREGROUND" value="678cb1" />
@@ -693,7 +703,7 @@
     </option>
     <option name="KOTLIN_INSTANCE_PROPERTY">
       <value>
-        <option name="FOREGROUND" value="678cb1" />
+        <option name="FOREGROUND" value="5b80a5" />
       </value>
     </option>
     <option name="KOTLIN_KEYWORD">
@@ -705,6 +715,12 @@
     <option name="KOTLIN_OBJECT">
       <value>
         <option name="FOREGROUND" value="6e6fff" />
+      </value>
+    </option>
+    <option name="KOTLIN_PACKAGE_PROPERTY">
+      <value>
+        <option name="FOREGROUND" value="5b80a5" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="KOTLIN_PARAMETER">
