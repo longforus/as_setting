@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="over Scroll Mode" />
       <item value="expert" />
       <item value="on Metadata Retrieve Error" />
       <item value="on Current Queue Index Updated" />
@@ -18,8 +19,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="20" />
+        <entry key="CHINESE" value="14" />
+        <entry key="ENGLISH" value="21" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
