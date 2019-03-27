@@ -9,14 +9,8 @@
     <option name="EDITOR_FONT_NAME" value="Consolas" />
     <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Ubuntu" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
-  </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Consolas" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
-  </console-font>
+  <option name="CONSOLE_FONT_NAME" value="Ubuntu" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="58d155" />
     <option name="CARET_COLOR" value="bbbbbb" />
