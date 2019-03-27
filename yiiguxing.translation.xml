@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="wrap content" />
       <item value="over Scroll Mode" />
       <item value="expert" />
       <item value="on Metadata Retrieve Error" />
@@ -19,8 +20,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="14" />
-        <entry key="ENGLISH" value="21" />
+        <entry key="CHINESE" value="16" />
+        <entry key="ENGLISH" value="23" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
