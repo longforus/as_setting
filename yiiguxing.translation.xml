@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="corner" />
       <item value="&lt;dd&gt;{@code toSortedList} does not operate by default on a particular {@link Scheduler}.&lt;/dd&gt;" />
       <item value="Advisory" />
       <item value="wrap content" />
@@ -21,8 +22,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="18" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="CHINESE" value="19" />
+        <entry key="ENGLISH" value="26" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
