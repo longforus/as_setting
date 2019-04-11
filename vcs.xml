@@ -110,6 +110,10 @@
           <option name="url" value="https://github.com/longforus/Android-PickerView.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/sealtalk/sealtalk-android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\asProject\demo" />
