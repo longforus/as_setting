@@ -1,5 +1,12 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="ShowUsages" is_action="true" action_type="-1" position="6">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Default with Cmd key" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="HelpTopics" is_action="true" action_type="-1" position="2">
       <path value="root" />
       <path value="Main menu" />
@@ -61,6 +68,13 @@
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="FindUsages" is_action="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Default with Cmd key" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Synchronize" is_action="true" action_type="1" position="15">
