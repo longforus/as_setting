@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This means you cannot observe each * PagedList via this method." />
+      <item value="which * will dispatch Adapter.notifyItem events on the main thread." />
+      <item value="a diff will be computed on a background thread," />
       <item value="Inconsistency" />
       <item value="IView implementation mast be Fragment or FragmentActivity" />
       <item value="water" />
@@ -29,8 +32,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="26" />
-        <entry key="ENGLISH" value="33" />
+        <entry key="CHINESE" value="30" />
+        <entry key="ENGLISH" value="37" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
