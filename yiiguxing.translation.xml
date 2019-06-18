@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="greater" />
       <item value="app" />
       <item value="attempt to return an instance of java.lang.Object[] from android.graphics.Bitmap[] com.longforus.opencv.JniMethod.getIdArea(android.graphics.Bitmap, android.graphics.Bitmap$Config)" />
       <item value="http://test1.aihuawen.com/api/v1/V_004?token=8c2bf495-caca-41d5-b9bb-bb41f4b79d41&amp;pageSize=10&amp;pageIndex=1&amp;delType=0&amp;User-Agent=Android/retrofit&amp;channel_package=web&amp;starting=false&amp;code=COURSE201904191424205071&amp;imei=ffffffff-894e-c5a9-0000-00000a3c73a1&amp;version=V4.3.0&amp;Accept=application/json&amp;channel=Xiaomi MI NOTE LTE&amp;type=0&amp;os-version=6.0.1 -zh" />
@@ -36,8 +37,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="CHINESE" value="34" />
+        <entry key="ENGLISH" value="41" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
