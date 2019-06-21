@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="selected Brand Code" />
+      <item value="set On Click Listener" />
       <item value="greater" />
       <item value="app" />
       <item value="attempt to return an instance of java.lang.Object[] from android.graphics.Bitmap[] com.longforus.opencv.JniMethod.getIdArea(android.graphics.Bitmap, android.graphics.Bitmap$Config)" />
@@ -37,8 +39,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="34" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="CHINESE" value="36" />
+        <entry key="ENGLISH" value="43" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
