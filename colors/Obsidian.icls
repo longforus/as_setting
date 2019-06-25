@@ -1,5 +1,13 @@
 <scheme name="Obsidian" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="description" />
+    <property name="modified">2019-06-25T15:13:10</property>
+    <property name="vendorMail">longforus@126.com</property>
+    <property name="vendorName">void</property>
+    <property name="vendorUrl">https://github.com/longforus</property>
+    <property name="version">0.1</property>
+  </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
