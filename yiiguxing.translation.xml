@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Configures Gson to apply a set of exclusion strategies during both serialization and * deserialization. Each of the {@code strategies} will be applied as a disjunction rule. * This means that if one of the {@code strategies} suggests that a field (or class) should be * skipped then that field (or object) is skipped during serialization/deserialization. *" />
       <item value="selected Brand Code" />
       <item value="set On Click Listener" />
       <item value="greater" />
@@ -39,8 +40,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="43" />
+        <entry key="CHINESE" value="37" />
+        <entry key="ENGLISH" value="44" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
