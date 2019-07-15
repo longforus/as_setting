@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns a list of currently attached USB accessories. * (in the current implementation there can be at most one)" />
       <item value="Elevation" />
       <item value="Configures Gson to apply a set of exclusion strategies during both serialization and * deserialization. Each of the {@code strategies} will be applied as a disjunction rule. * This means that if one of the {@code strategies} suggests that a field (or class) should be * skipped then that field (or object) is skipped during serialization/deserialization. *" />
       <item value="selected Brand Code" />
@@ -41,8 +42,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="38" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="CHINESE" value="39" />
+        <entry key="ENGLISH" value="46" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
