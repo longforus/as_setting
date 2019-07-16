@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="women" />
       <item value="* Copyright (c) 2019. Lorem ipsum dolor sit amet, consectetur adipiscing elit. * Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan. * Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna. * Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus. * Vestibulum commodo. Ut rhoncus gravida arcu." />
       <item value="Returns a list of currently attached USB accessories. * (in the current implementation there can be at most one)" />
       <item value="Elevation" />
@@ -43,8 +44,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
-        <entry key="ENGLISH" value="46" />
+        <entry key="CHINESE" value="41" />
+        <entry key="ENGLISH" value="47" />
         <entry key="FRENCH" value="3" />
       </map>
     </option>
