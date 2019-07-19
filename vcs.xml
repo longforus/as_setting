@@ -146,9 +146,13 @@
           <option name="url" value="git@gitee.com:huawenLTD/shunmiao.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/longforus/pgyerUpload4AndroidStudio.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Develop\Projects\GitRepo" />
+    <option name="cloneParentDir" value="D:\asProject\demo" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
