@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Dither" />
       <item value="Shader" />
       <item value="Not allowed to change Do Not Disturb state" />
       <item value="m Ignoring" />
@@ -48,8 +49,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="51" />
+        <entry key="CHINESE" value="46" />
+        <entry key="ENGLISH" value="52" />
         <entry key="FRENCH" value="3" />
       </map>
     </option>
