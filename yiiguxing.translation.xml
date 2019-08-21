@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="build" />
       <item value="eager" />
       <item value="Dither" />
       <item value="Shader" />
@@ -50,9 +51,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="47" />
-        <entry key="ENGLISH" value="53" />
+        <entry key="CHINESE" value="50" />
+        <entry key="ENGLISH" value="57" />
         <entry key="FRENCH" value="3" />
+        <entry key="JAPANESE" value="2" />
       </map>
     </option>
   </component>
