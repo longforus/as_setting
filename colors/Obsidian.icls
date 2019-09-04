@@ -2,7 +2,7 @@
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="description" />
-    <property name="modified">2019-08-21T15:31:18</property>
+    <property name="modified">2019-09-04T16:10:06</property>
     <property name="vendorMail">longforus@126.com</property>
     <property name="vendorName">void</property>
     <property name="vendorUrl">https://github.com/longforus</property>
@@ -254,6 +254,11 @@
         <option name="FOREGROUND" value="e8e378" />
       </value>
     </option>
+    <option name="DART_IMPORT_PREFIX">
+      <value>
+        <option name="FOREGROUND" value="76e478" />
+      </value>
+    </option>
     <option name="DART_LABEL">
       <value>
         <option name="FOREGROUND" value="b7e4a8" />
@@ -267,7 +272,7 @@
     </option>
     <option name="DART_TYPE_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="e8ffd5" />
+        <option name="FOREGROUND" value="f0ffc3" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
