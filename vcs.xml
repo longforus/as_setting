@@ -206,6 +206,10 @@
           <option name="url" value="https://github.com/adaptech-cz/Tesseract4Android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/android/architecture-components-samples.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\StudioProjects\demo" />
