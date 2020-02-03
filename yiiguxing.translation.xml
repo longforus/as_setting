@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="detached" />
       <item value="add(MultiItemBean().apply { icon = R.drawable.wode_yuer title = &quot;余额查询&quot; itemMutableType = 0 targetActivity = BalanceActivity::class.java })" />
       <item value="* &lt;p&gt;For YV12, the image buffer that is received is not necessarily * tightly packed, as there may be padding at the end of each row of * pixel data, as described in * {@link android.graphics.ImageFormat#YV12}. For camera callback data, * it can be assumed that the stride of the Y and UV data is the * smallest possible that meets the alignment requirements. That is, if * the preview size is &lt;var&gt;width x height&lt;/var&gt;, then the following * equations describe the buffer index for the beginning of row * &lt;var&gt;y&lt;/var&gt; for the Y plane and row &lt;var&gt;c&lt;/var&gt; for the U and V * planes:" />
       <item value="&gt;For YV12, the image buffer that is received is not necessarily * tightly packed, as there may be padding at the end of each row of * pixel data, as described in" />
@@ -39,7 +40,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="31" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="ENGLISH" value="42" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
