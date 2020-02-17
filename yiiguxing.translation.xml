@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="REDIRECTED" />
       <item value="selling" />
       <item value="purchase" />
       <item value="detached" />
@@ -41,8 +42,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
-        <entry key="ENGLISH" value="44" />
+        <entry key="CHINESE" value="34" />
+        <entry key="ENGLISH" value="45" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
