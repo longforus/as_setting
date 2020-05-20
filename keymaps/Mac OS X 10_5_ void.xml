@@ -11,7 +11,11 @@
   <action id="EditorCompleteStatement">
     <keyboard-shortcut first-keystroke="alt back_slash" />
   </action>
+  <action id="Exit" />
   <action id="HippieBackwardCompletion" />
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="alt q" />
+  </action>
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
