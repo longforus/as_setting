@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="RenderFlex object was given an infinite size during layout." />
       <item value="The returned map preserves the entry iteration order of the original collection." />
       <item value="GRANULARITY SMALL" />
       <item value="set Recognize Granularity" />
@@ -50,12 +51,11 @@
       <item value="Retrieve" />
       <item value="ratio" />
       <item value="target Compatibility" />
-      <item value="renderscript Target Api" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="59" />
-        <entry key="ENGLISH" value="66" />
+        <entry key="CHINESE" value="60" />
+        <entry key="ENGLISH" value="67" />
         <entry key="FRENCH" value="3" />
         <entry key="JAPANESE" value="2" />
       </map>
@@ -68,7 +68,6 @@
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="599eb692e364732c" />
-        <option name="appKeyConfigured" value="true" />
       </youdao-translate>
     </option>
   </component>
