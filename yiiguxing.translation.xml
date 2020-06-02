@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="idempotent" />
       <item value="RenderFlex object was given an infinite size during layout." />
       <item value="The returned map preserves the entry iteration order of the original collection." />
       <item value="GRANULARITY SMALL" />
@@ -50,12 +51,11 @@
       <item value="on Current Queue Index Updated" />
       <item value="Retrieve" />
       <item value="ratio" />
-      <item value="target Compatibility" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="67" />
+        <entry key="CHINESE" value="61" />
+        <entry key="ENGLISH" value="68" />
         <entry key="FRENCH" value="3" />
         <entry key="JAPANESE" value="2" />
       </map>
