@@ -2,7 +2,7 @@
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="description" />
-    <property name="modified">2019-09-20T08:42:02</property>
+    <property name="modified">2020-06-03T14:07:46</property>
     <property name="vendorMail">longforus@126.com</property>
     <property name="vendorName">void</property>
     <property name="vendorUrl">https://github.com/longforus</property>
@@ -215,6 +215,7 @@
     <option name="DART_BAD_CHARACTER">
       <value>
         <option name="FOREGROUND" value="e46365" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DART_CLASS">
@@ -227,16 +228,24 @@
         <option name="FOREGROUND" value="1ec63d" />
       </value>
     </option>
+    <option name="DART_DYNAMIC_LOCAL_VARIABLE_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="c7c9cb" />
+      </value>
+    </option>
+    <option name="DART_DYNAMIC_LOCAL_VARIABLE_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="c7c9cb" />
+      </value>
+    </option>
     <option name="DART_DYNAMIC_PARAMETER_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="448c00" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="57cd00" />
       </value>
     </option>
     <option name="DART_DYNAMIC_PARAMETER_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="448c00" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="57cd00" />
       </value>
     </option>
     <option name="DART_ENUM">
@@ -267,13 +276,36 @@
     </option>
     <option name="DART_PARAMETER_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="dedce0" />
+        <option name="FOREGROUND" value="c9cbcd" />
+      </value>
+    </option>
+    <option name="DART_STATIC_FIELD_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="678cb1" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DART_STATIC_METHOD_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="e0e2e4" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DART_STATIC_METHOD_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="e0e2e4" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DART_TYPE_PARAMETER">
       <value>
         <option name="FOREGROUND" value="f0ffc3" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DART_UNRESOLVED_INSTANCE_MEMBER_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="e46294" />
       </value>
     </option>
     <option name="DEBUGGER_INLINED_VALUES_EXECUTION_LINE">
