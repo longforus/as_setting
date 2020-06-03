@@ -2,7 +2,7 @@
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="description" />
-    <property name="modified">2020-06-03T14:07:46</property>
+    <property name="modified">2020-06-03T18:03:49</property>
     <property name="vendorMail">longforus@126.com</property>
     <property name="vendorName">void</property>
     <property name="vendorUrl">https://github.com/longforus</property>
@@ -250,12 +250,13 @@
     </option>
     <option name="DART_ENUM">
       <value>
-        <option name="FOREGROUND" value="506db1" />
+        <option name="FOREGROUND" value="6260ff" />
       </value>
     </option>
     <option name="DART_ENUM_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="506db1" />
+        <option name="FOREGROUND" value="6260ff" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DART_FAT_ARROW">
