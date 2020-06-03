@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Overflowing children will be clipped to the bounds of their parent." />
       <item value="Brightness" />
       <item value="idempotent" />
       <item value="RenderFlex object was given an infinite size during layout." />
@@ -50,12 +51,11 @@
       <item value="expert" />
       <item value="on Metadata Retrieve Error" />
       <item value="on Current Queue Index Updated" />
-      <item value="Retrieve" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="69" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="70" />
         <entry key="FRENCH" value="3" />
         <entry key="JAPANESE" value="2" />
       </map>
