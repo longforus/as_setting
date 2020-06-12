@@ -9,7 +9,6 @@
       <mapping pattern="xposed_init" type="PLAIN_TEXT" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
-      <mapping ext="proto" type="PLAIN_TEXT" />
       <mapping ext="bcp" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
