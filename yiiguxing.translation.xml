@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="// Allow you to block all tasks which need to be sent before certain 'AUTHENTICATED' actions // Usually we use this to exchange encryption keys, sessions, etc." />
       <item value="Access denied finding property &quot;net.dns2&quot;" />
       <item value="report Task Profile" />
       <item value="Better not holding vm" />
@@ -50,12 +51,11 @@
       <item value="The view drawing cache was largely made obsolete with the introduction of * hardware-accelerated rendering in API 11. With hardware-acceleration, intermediate cache * layers are largely unnecessary and can easily result in a net loss in performance due to the * cost of creating and updating the layer. In the rare cases where caching layers are useful, * such as for alpha animations, {@link #setLayerType(int, Paint)} handles this with hardware * rendering. For software-rendered snapshots of a small part of the View hierarchy or * individual Views it is recommended to create a {@link Canvas} from either a {@link Bitmap} or * {@link android.graphics.Picture} and call {@link #draw(Canvas)} on the View. However these * software-rendered usages are discouraged and have compatibility issues with hardware-only * rendering features such as {@link android.graphics.Bitmap.Config#HARDWARE Config.HARDWARE} * bitmaps, real-time shadows, and outline clipping. For screenshots of the UI for feedback * reports or unit testing the {@link PixelCopy} API is recommended." />
       <item value="This means you cannot observe each * PagedList via this method." />
       <item value="which * will dispatch Adapter.notifyItem events on the main thread." />
-      <item value="a diff will be computed on a background thread," />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="78" />
-        <entry key="ENGLISH" value="85" />
+        <entry key="CHINESE" value="79" />
+        <entry key="ENGLISH" value="86" />
         <entry key="FRENCH" value="3" />
         <entry key="JAPANESE" value="2" />
       </map>
