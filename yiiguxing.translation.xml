@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="to prevent this event from being propagated * further," />
       <item value="malformed" />
       <item value="Send identify request buf to server" />
       <item value="// Allow you to block all tasks which need to be sent before certain 'AUTHENTICATED' actions // Usually we use this to exchange encryption keys, sessions, etc." />
@@ -50,12 +51,11 @@
       <item value="app" />
       <item value="attempt to return an instance of java.lang.Object[] from android.graphics.Bitmap[] com.longforus.opencv.JniMethod.getIdArea(android.graphics.Bitmap, android.graphics.Bitmap$Config)" />
       <item value="http://test1.aihuawen.com/api/v1/V_004?token=8c2bf495-caca-41d5-b9bb-bb41f4b79d41&amp;pageSize=10&amp;pageIndex=1&amp;delType=0&amp;User-Agent=Android/retrofit&amp;channel_package=web&amp;starting=false&amp;code=COURSE201904191424205071&amp;imei=ffffffff-894e-c5a9-0000-00000a3c73a1&amp;version=V4.3.0&amp;Accept=application/json&amp;channel=Xiaomi MI NOTE LTE&amp;type=0&amp;os-version=6.0.1 -zh" />
-      <item value="The view drawing cache was largely made obsolete with the introduction of * hardware-accelerated rendering in API 11. With hardware-acceleration, intermediate cache * layers are largely unnecessary and can easily result in a net loss in performance due to the * cost of creating and updating the layer. In the rare cases where caching layers are useful, * such as for alpha animations, {@link #setLayerType(int, Paint)} handles this with hardware * rendering. For software-rendered snapshots of a small part of the View hierarchy or * individual Views it is recommended to create a {@link Canvas} from either a {@link Bitmap} or * {@link android.graphics.Picture} and call {@link #draw(Canvas)} on the View. However these * software-rendered usages are discouraged and have compatibility issues with hardware-only * rendering features such as {@link android.graphics.Bitmap.Config#HARDWARE Config.HARDWARE} * bitmaps, real-time shadows, and outline clipping. For screenshots of the UI for feedback * reports or unit testing the {@link PixelCopy} API is recommended." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="81" />
-        <entry key="ENGLISH" value="88" />
+        <entry key="CHINESE" value="82" />
+        <entry key="ENGLISH" value="89" />
         <entry key="FRENCH" value="3" />
         <entry key="JAPANESE" value="2" />
       </map>
