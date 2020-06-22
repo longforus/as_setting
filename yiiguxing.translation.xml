@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="You either need MANAGE_USERS or CREATE_USERS permission to: query users" />
       <item value="process to have appropriate permissions." />
       <item value="to prevent this event from being propagated * further," />
       <item value="malformed" />
@@ -50,12 +51,11 @@
       <item value="set On Click Listener" />
       <item value="greater" />
       <item value="app" />
-      <item value="attempt to return an instance of java.lang.Object[] from android.graphics.Bitmap[] com.longforus.opencv.JniMethod.getIdArea(android.graphics.Bitmap, android.graphics.Bitmap$Config)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="83" />
-        <entry key="ENGLISH" value="90" />
+        <entry key="CHINESE" value="84" />
+        <entry key="ENGLISH" value="91" />
         <entry key="FRENCH" value="3" />
         <entry key="JAPANESE" value="2" />
       </map>
