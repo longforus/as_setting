@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Comparison method violates its general contract!" />
       <item value="You either need MANAGE_USERS or CREATE_USERS permission to: query users" />
       <item value="process to have appropriate permissions." />
       <item value="to prevent this event from being propagated * further," />
@@ -50,7 +51,6 @@
       <item value="selected Brand Code" />
       <item value="set On Click Listener" />
       <item value="greater" />
-      <item value="app" />
     </histories>
     <option name="languageScores">
       <map>
