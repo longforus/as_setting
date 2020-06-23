@@ -2,7 +2,7 @@
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="description" />
-    <property name="modified">2020-06-23T10:31:26</property>
+    <property name="modified">2020-06-23T14:44:35</property>
     <property name="vendorMail">longforus@126.com</property>
     <property name="vendorName">void</property>
     <property name="vendorUrl">https://github.com/longforus</property>
@@ -17,7 +17,7 @@
     <option name="EDITOR_FONT_NAME" value="Consolas" />
     <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
-  <option name="CONSOLE_FONT_NAME" value="Consolas" />
+  <option name="CONSOLE_FONT_NAME" value="Ubuntu" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
