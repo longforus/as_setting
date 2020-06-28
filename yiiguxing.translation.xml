@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="You will no longer be able to disable R8" />
       <item value="Comparison method violates its general contract!" />
       <item value="You either need MANAGE_USERS or CREATE_USERS permission to: query users" />
       <item value="process to have appropriate permissions." />
@@ -50,12 +51,11 @@
       <item value="Configures Gson to apply a set of exclusion strategies during both serialization and * deserialization. Each of the {@code strategies} will be applied as a disjunction rule. * This means that if one of the {@code strategies} suggests that a field (or class) should be * skipped then that field (or object) is skipped during serialization/deserialization. *" />
       <item value="selected Brand Code" />
       <item value="set On Click Listener" />
-      <item value="greater" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="84" />
-        <entry key="ENGLISH" value="91" />
+        <entry key="CHINESE" value="85" />
+        <entry key="ENGLISH" value="92" />
         <entry key="FRENCH" value="3" />
         <entry key="JAPANESE" value="2" />
       </map>
