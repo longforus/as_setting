@@ -1,5 +1,5 @@
 <application>
   <component name="com.sburlyaev.cmd.plugin.PluginSettings">
-    <option name="favoriteTerminal" value="" />
+    <option name="favoriteTerminal" value="$USER_HOME$/AppData/Local/Microsoft/WindowsApps/Microsoft.WindowsTerminalPreview_8wekyb3d8bbwe/wt.exe" />
   </component>
 </application>
