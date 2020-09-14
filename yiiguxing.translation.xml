@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dispose" />
       <item value="shaders" />
       <item value="You will no longer be able to disable R8" />
       <item value="Comparison method violates its general contract!" />
@@ -50,13 +51,12 @@
       <item value="Returns a list of currently attached USB accessories. * (in the current implementation there can be at most one)" />
       <item value="Elevation" />
       <item value="Configures Gson to apply a set of exclusion strategies during both serialization and * deserialization. Each of the {@code strategies} will be applied as a disjunction rule. * This means that if one of the {@code strategies} suggests that a field (or class) should be * skipped then that field (or object) is skipped during serialization/deserialization. *" />
-      <item value="selected Brand Code" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="86" />
-        <entry key="ENGLISH" value="93" />
-        <entry key="FRENCH" value="3" />
+        <entry key="CHINESE" value="88" />
+        <entry key="ENGLISH" value="94" />
+        <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="2" />
       </map>
     </option>
