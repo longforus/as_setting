@@ -2,7 +2,7 @@
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="description" />
-    <property name="modified">2020-06-23T14:44:35</property>
+    <property name="modified">2020-09-16T09:39:06</property>
     <property name="vendorMail">longforus@126.com</property>
     <property name="vendorName">void</property>
     <property name="vendorUrl">https://github.com/longforus</property>
@@ -88,6 +88,11 @@
     <option name="BAD_CHARACTER">
       <value>
         <option name="FOREGROUND" value="e0e2e4" />
+      </value>
+    </option>
+    <option name="BASH.HERE_DOC">
+      <value>
+        <option name="BACKGROUND" value="97a975" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
@@ -232,21 +237,29 @@
     <option name="DART_DYNAMIC_LOCAL_VARIABLE_DECLARATION">
       <value>
         <option name="FOREGROUND" value="c7c9cb" />
+        <option name="BACKGROUND" value="3c3f41" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="DART_DYNAMIC_LOCAL_VARIABLE_REFERENCE">
       <value>
         <option name="FOREGROUND" value="c7c9cb" />
+        <option name="BACKGROUND" value="3c3f41" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="DART_DYNAMIC_PARAMETER_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="57cd00" />
+        <option name="FOREGROUND" value="448c00" />
+        <option name="BACKGROUND" value="3c3f41" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="DART_DYNAMIC_PARAMETER_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="57cd00" />
+        <option name="FOREGROUND" value="448c00" />
+        <option name="BACKGROUND" value="3c3f41" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="DART_ENUM">
