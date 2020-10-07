@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="webp" type="Image" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="bcp" type="PLAIN_TEXT" />
     </extensionMap>
