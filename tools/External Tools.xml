@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="flutter attach" description="flutter attach" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\flutter\bin\flutter.bat" />
+      <option name="PARAMETERS" value="attach" />
+      <option name="WORKING_DIRECTORY" value="D:/StudioProjects/shunmiaoflutter/fluttermodule" />
+    </exec>
+  </tool>
+</toolSet>

@@ -1,0 +1,10 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="11-06 17:31:08.465 10129-10144/com.aihuawen.erwin I/[RC:L-ping-S]: {&quot;ptid&quot;:&quot;10206-2043&quot;,&quot;interval&quot;:15000,&quot;enabled&quot;:&quot;polling&quot;}" />
+        <option value="{&quot;ptid&quot;:&quot;10206-2043&quot;,&quot;action&quot;:&quot;env_changed&quot;,&quot;reason&quot;:&quot;105&quot;}" />
+      </list>
+    </option>
+  </component>
+</application>

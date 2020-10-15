@@ -1,64 +1,72 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="brand" />
-      <item value="Purchase" />
-      <item value="Returns an Observable that emits {@code 0L} after a specified delay, and then completes." />
-      <item value="REDIRECTED" />
-      <item value="selling" />
-      <item value="purchase" />
-      <item value="detached" />
-      <item value="add(MultiItemBean().apply { icon = R.drawable.wode_yuer title = &quot;余额查询&quot; itemMutableType = 0 targetActivity = BalanceActivity::class.java })" />
-      <item value="* &lt;p&gt;For YV12, the image buffer that is received is not necessarily * tightly packed, as there may be padding at the end of each row of * pixel data, as described in * {@link android.graphics.ImageFormat#YV12}. For camera callback data, * it can be assumed that the stride of the Y and UV data is the * smallest possible that meets the alignment requirements. That is, if * the preview size is &lt;var&gt;width x height&lt;/var&gt;, then the following * equations describe the buffer index for the beginning of row * &lt;var&gt;y&lt;/var&gt; for the Y plane and row &lt;var&gt;c&lt;/var&gt; for the U and V * planes:" />
-      <item value="&gt;For YV12, the image buffer that is received is not necessarily * tightly packed, as there may be padding at the end of each row of * pixel data, as described in" />
-      <item value="iterations" />
-      <item value="structuring element used for dilation" />
-      <item value="an elliptic structuring element" />
-      <item value="cross-shaped" />
-      <item value="Returns a structuring element of the specified size and shape for morphological operations. The function constructs and returns the structuring element that can be further passed to #erode,&#10;#dilate or #morphologyEx. But you can also construct an arbitrary binary mask yourself and use it as&#10;the structuring element. @param shape Element shape that could be one of #MorphShapes&#10;@param ksize Size of the structuring element.&#10;@param anchor Anchor position within the element. The default value \f$(-1, -1)\f$ means that the&#10;anchor is at the center. Note that only the shape of a cross-shaped element depends on the anchor&#10;position. In other cases the anchor just regulates how much the result of the morphological&#10;operation is shifted." />
-      <item value="further" />
-      <item value="set Orientation" />
-      <item value="but they required a higher minimum deployment target." />
-      <item value="dependency were found" />
-      <item value="Specs satisfying" />
-      <item value="item Space" />
-      <item value="Measurement" />
-      <item value="set Interval" />
-      <item value="* Returns the max visible item count, [.DETERMINE_BY_MAX_AND_MIN] means it haven't been set now * And it will use [.maxRemoveOffset] and [.minRemoveOffset] to handle the range" />
-      <item value="Main Activity" />
-      <item value="layout Manager" />
-      <item value="put Extra" />
-      <item value="on Metadata Retrieve Error" />
-      <item value="on Current Queue Index Updated" />
-      <item value="Retrieve" />
-      <item value="ratio" />
-      <item value="expert" />
-      <item value="target Compatibility" />
-      <item value="renderscript Target Api" />
-      <item value="dim Behind" />
-      <item value="BEHIND" />
-      <item value="Evaluate" />
-      <item value="redis" />
-      <item value="Advisory" />
-      <item value="aspect Ratio" />
-      <item value="delegate" />
+      <item value="dispose" />
+      <item value="shaders" />
+      <item value="You will no longer be able to disable R8" />
+      <item value="Comparison method violates its general contract!" />
+      <item value="You either need MANAGE_USERS or CREATE_USERS permission to: query users" />
+      <item value="process to have appropriate permissions." />
+      <item value="to prevent this event from being propagated * further," />
+      <item value="malformed" />
+      <item value="Send identify request buf to server" />
+      <item value="// Allow you to block all tasks which need to be sent before certain 'AUTHENTICATED' actions // Usually we use this to exchange encryption keys, sessions, etc." />
+      <item value="Access denied finding property &quot;net.dns2&quot;" />
+      <item value="report Task Profile" />
+      <item value="Better not holding vm" />
+      <item value="topic" />
+      <item value="System overlays should be drawn with a light color. Intended for /// applications with a dark background." />
+      <item value="For example, the color might be bright white, requiring black text." />
+      <item value="Starting a blocking GC Explicit" />
+      <item value="Denotes that the annotated element should only be called on the given API level or higher." />
+      <item value="Around" />
+      <item value="Evenly" />
+      <item value="Render" />
+      <item value="Fitted" />
+      <item value="according" />
+      <item value="arguments" />
+      <item value="Geometry" />
+      <item value="Overflowing children will be clipped to the bounds of their parent." />
+      <item value="Brightness" />
+      <item value="idempotent" />
+      <item value="RenderFlex object was given an infinite size during layout." />
+      <item value="The returned map preserves the entry iteration order of the original collection." />
+      <item value="GRANULARITY SMALL" />
+      <item value="set Recognize Granularity" />
+      <item value="set Vertexes Location" />
+      <item value="set Detect Direction" />
+      <item value="Holder" />
+      <item value="More than one file was found with OS independent path 'lib/x86_64/libobjectbox-jni.so'" />
+      <item value="Expose" />
+      <item value="is called after initState and whenever the dependencies change thereafter." />
+      <item value="build" />
+      <item value="eager" />
+      <item value="Dither" />
+      <item value="Shader" />
+      <item value="Not allowed to change Do Not Disturb state" />
+      <item value="m Ignoring" />
+      <item value="swipe From Bottom" />
+      <item value="women" />
+      <item value="* Copyright (c) 2019. Lorem ipsum dolor sit amet, consectetur adipiscing elit. * Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan. * Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna. * Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus. * Vestibulum commodo. Ut rhoncus gravida arcu." />
+      <item value="Returns a list of currently attached USB accessories. * (in the current implementation there can be at most one)" />
+      <item value="Elevation" />
+      <item value="Configures Gson to apply a set of exclusion strategies during both serialization and * deserialization. Each of the {@code strategies} will be applied as a disjunction rule. * This means that if one of the {@code strategies} suggests that a field (or class) should be * skipped then that field (or object) is skipped during serialization/deserialization. *" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="37" />
-        <entry key="ENGLISH" value="48" />
-        <entry key="FRENCH" value="2" />
+        <entry key="CHINESE" value="88" />
+        <entry key="ENGLISH" value="94" />
+        <entry key="FRENCH" value="5" />
+        <entry key="JAPANESE" value="2" />
       </map>
     </option>
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
-    <option name="targetLanguageSelection" value="LAST" />
     <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="599eb692e364732c" />
-        <option name="appKeyConfigured" value="true" />
       </youdao-translate>
     </option>
   </component>

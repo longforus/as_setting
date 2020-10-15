@@ -2,7 +2,8 @@
   <component name="AndroidEditors">
     <option name="state">
       <GlobalState>
-        <option name="preferXmlEditor" value="true" />
+        <option name="preferredDrawableEditorMode" value="Split" />
+        <option name="preferredEditorMode" value="Split" />
       </GlobalState>
     </option>
   </component>
