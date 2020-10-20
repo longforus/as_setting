@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Retains" />
+      <item value="intersect" />
       <item value="dispose" />
       <item value="shaders" />
       <item value="You will no longer be able to disable R8" />
@@ -49,13 +51,11 @@
       <item value="women" />
       <item value="* Copyright (c) 2019. Lorem ipsum dolor sit amet, consectetur adipiscing elit. * Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan. * Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna. * Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus. * Vestibulum commodo. Ut rhoncus gravida arcu." />
       <item value="Returns a list of currently attached USB accessories. * (in the current implementation there can be at most one)" />
-      <item value="Elevation" />
-      <item value="Configures Gson to apply a set of exclusion strategies during both serialization and * deserialization. Each of the {@code strategies} will be applied as a disjunction rule. * This means that if one of the {@code strategies} suggests that a field (or class) should be * skipped then that field (or object) is skipped during serialization/deserialization. *" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="88" />
-        <entry key="ENGLISH" value="94" />
+        <entry key="CHINESE" value="91" />
+        <entry key="ENGLISH" value="97" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="2" />
       </map>
