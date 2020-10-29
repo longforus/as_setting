@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Surrounding" />
+      <item value="e Surrounding" />
       <item value="The string of characters to output when this key is pressed." />
       <item value="Key is anchored to the right of the keyboard." />
       <item value="Key is anchored to the left of the keyboard" />
@@ -49,13 +51,11 @@
       <item value="build" />
       <item value="eager" />
       <item value="Dither" />
-      <item value="Shader" />
-      <item value="Not allowed to change Do Not Disturb state" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="96" />
-        <entry key="ENGLISH" value="102" />
+        <entry key="CHINESE" value="98" />
+        <entry key="ENGLISH" value="104" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="2" />
       </map>
