@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The number of characters before the cursor to be deleted, in code unit. * If this is greater than the number of existing characters between the beginning of the * text and the cursor, then this method does not fail but deletes all the characters in * that range." />
       <item value="Surrounding" />
       <item value="e Surrounding" />
       <item value="The string of characters to output when this key is pressed." />
@@ -50,12 +51,11 @@
       <item value="is called after initState and whenever the dependencies change thereafter." />
       <item value="build" />
       <item value="eager" />
-      <item value="Dither" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="98" />
-        <entry key="ENGLISH" value="104" />
+        <entry key="CHINESE" value="99" />
+        <entry key="ENGLISH" value="105" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="2" />
       </map>
