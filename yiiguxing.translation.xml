@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The string of characters to output when this key is pressed." />
+      <item value="Key is anchored to the right of the keyboard." />
+      <item value="Key is anchored to the left of the keyboard" />
       <item value="/ Note: we need to use allowStateLoss, because the dialog // dispatches this asynchronously so we can receive the call // after the activity is paused. Worst case, when the user comes // back to the activity they see the dialog again." />
       <item value="It should not be treated as an error" />
       <item value="Retains" />
@@ -48,14 +51,11 @@
       <item value="Dither" />
       <item value="Shader" />
       <item value="Not allowed to change Do Not Disturb state" />
-      <item value="m Ignoring" />
-      <item value="swipe From Bottom" />
-      <item value="women" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="93" />
-        <entry key="ENGLISH" value="99" />
+        <entry key="CHINESE" value="96" />
+        <entry key="ENGLISH" value="102" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="2" />
       </map>
