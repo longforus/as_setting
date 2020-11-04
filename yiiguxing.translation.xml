@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="EXPONENTIAL" />
+      <item value="Criteria" />
+      <item value="Backoff" />
+      <item value="set Backoff Criteria" />
       <item value="Terminal flow operator that collects the given flow with a provided [action]. * If any exception occurs during collect or in the provided flow, this exception is rethrown from this method." />
       <item value="analogue" />
       <item value="false if entering this * mode should be aborted." />
@@ -47,15 +51,11 @@
       <item value="GRANULARITY SMALL" />
       <item value="set Recognize Granularity" />
       <item value="set Vertexes Location" />
-      <item value="set Detect Direction" />
-      <item value="Holder" />
-      <item value="More than one file was found with OS independent path 'lib/x86_64/libobjectbox-jni.so'" />
-      <item value="Expose" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="102" />
-        <entry key="ENGLISH" value="108" />
+        <entry key="CHINESE" value="107" />
+        <entry key="ENGLISH" value="113" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="2" />
       </map>
