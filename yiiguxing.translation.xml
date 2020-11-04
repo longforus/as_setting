@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="whether" />
       <item value="EXPONENTIAL" />
       <item value="Criteria" />
       <item value="Backoff" />
@@ -50,12 +51,11 @@
       <item value="The returned map preserves the entry iteration order of the original collection." />
       <item value="GRANULARITY SMALL" />
       <item value="set Recognize Granularity" />
-      <item value="set Vertexes Location" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="107" />
-        <entry key="ENGLISH" value="113" />
+        <entry key="CHINESE" value="108" />
+        <entry key="ENGLISH" value="114" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="2" />
       </map>
