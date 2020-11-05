@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Word" />
       <item value="whether" />
       <item value="EXPONENTIAL" />
       <item value="Criteria" />
@@ -50,12 +51,11 @@
       <item value="RenderFlex object was given an infinite size during layout." />
       <item value="The returned map preserves the entry iteration order of the original collection." />
       <item value="GRANULARITY SMALL" />
-      <item value="set Recognize Granularity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="108" />
-        <entry key="ENGLISH" value="114" />
+        <entry key="CHINESE" value="109" />
+        <entry key="ENGLISH" value="115" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="2" />
       </map>
