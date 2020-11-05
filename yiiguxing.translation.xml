@@ -1,6 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Word" />
+      <item value="whether" />
+      <item value="EXPONENTIAL" />
+      <item value="Criteria" />
+      <item value="Backoff" />
+      <item value="set Backoff Criteria" />
+      <item value="Terminal flow operator that collects the given flow with a provided [action]. * If any exception occurs during collect or in the provided flow, this exception is rethrown from this method." />
+      <item value="analogue" />
+      <item value="false if entering this * mode should be aborted." />
+      <item value="The number of characters before the cursor to be deleted, in code unit. * If this is greater than the number of existing characters between the beginning of the * text and the cursor, then this method does not fail but deletes all the characters in * that range." />
+      <item value="Surrounding" />
+      <item value="e Surrounding" />
+      <item value="The string of characters to output when this key is pressed." />
+      <item value="Key is anchored to the right of the keyboard." />
+      <item value="Key is anchored to the left of the keyboard" />
       <item value="/ Note: we need to use allowStateLoss, because the dialog // dispatches this asynchronously so we can receive the call // after the activity is paused. Worst case, when the user comes // back to the activity they see the dialog again." />
       <item value="It should not be treated as an error" />
       <item value="Retains" />
@@ -36,26 +51,11 @@
       <item value="RenderFlex object was given an infinite size during layout." />
       <item value="The returned map preserves the entry iteration order of the original collection." />
       <item value="GRANULARITY SMALL" />
-      <item value="set Recognize Granularity" />
-      <item value="set Vertexes Location" />
-      <item value="set Detect Direction" />
-      <item value="Holder" />
-      <item value="More than one file was found with OS independent path 'lib/x86_64/libobjectbox-jni.so'" />
-      <item value="Expose" />
-      <item value="is called after initState and whenever the dependencies change thereafter." />
-      <item value="build" />
-      <item value="eager" />
-      <item value="Dither" />
-      <item value="Shader" />
-      <item value="Not allowed to change Do Not Disturb state" />
-      <item value="m Ignoring" />
-      <item value="swipe From Bottom" />
-      <item value="women" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="93" />
-        <entry key="ENGLISH" value="99" />
+        <entry key="CHINESE" value="109" />
+        <entry key="ENGLISH" value="115" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="2" />
       </map>
