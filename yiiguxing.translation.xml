@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="discarded" />
+      <item value="accumulated" />
       <item value="Resumes this continuation with the specified `value` and calls the specified `onCancellation` handler when either resumed too late (when continuation was already cancelled) or, although resumed successfully (before cancellation), the coroutine's job was cancelled before it had a chance to run in its dispatcher, so that the suspended function threw an exception instead of returning this value." />
       <item value="Word" />
       <item value="whether" />
@@ -49,13 +51,11 @@
       <item value="Overflowing children will be clipped to the bounds of their parent." />
       <item value="Brightness" />
       <item value="idempotent" />
-      <item value="RenderFlex object was given an infinite size during layout." />
-      <item value="The returned map preserves the entry iteration order of the original collection." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="110" />
-        <entry key="ENGLISH" value="116" />
+        <entry key="CHINESE" value="111" />
+        <entry key="ENGLISH" value="117" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="2" />
       </map>
