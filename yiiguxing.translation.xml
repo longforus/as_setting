@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="distinct" />
       <item value="Holden" />
       <item value="discarded" />
       <item value="accumulated" />
@@ -50,12 +51,11 @@
       <item value="arguments" />
       <item value="Geometry" />
       <item value="Overflowing children will be clipped to the bounds of their parent." />
-      <item value="Brightness" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="112" />
-        <entry key="ENGLISH" value="118" />
+        <entry key="CHINESE" value="113" />
+        <entry key="ENGLISH" value="119" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="2" />
       </map>
@@ -63,7 +63,6 @@
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
-    <option name="translateDocumentation" value="true" />
     <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
