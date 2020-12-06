@@ -51,6 +51,9 @@
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="ShowSettingsAndFindUsages">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f2" />
+  </action>
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
