@@ -1,4 +1,7 @@
 <keymap version="1" name="macOS VoidOffice" parent="Mac OS X 10.5+">
+  <action id="EditorCompleteStatement">
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
+  </action>
   <action id="ExternalTools_External Tools">
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
