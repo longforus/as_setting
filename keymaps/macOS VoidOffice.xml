@@ -1,0 +1,20 @@
+<keymap version="1" name="macOS VoidOffice" parent="Mac OS X 10.5+">
+  <action id="ExternalTools_External Tools">
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f2" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
+  <action id="PasteMultiple">
+    <keyboard-shortcut first-keystroke="ctrl meta v" />
+  </action>
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+</keymap>
