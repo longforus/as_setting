@@ -14,9 +14,6 @@
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
-  <action id="PasteMultiple">
-    <keyboard-shortcut first-keystroke="ctrl meta v" />
-  </action>
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
