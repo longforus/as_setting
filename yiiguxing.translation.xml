@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="configure db browser port" />
       <item value="device Locker Data" />
       <item value="Parcelize" />
       <item value="Parcel Creator" />
@@ -50,12 +51,11 @@
       <item value="Starting a blocking GC Explicit" />
       <item value="Denotes that the annotated element should only be called on the given API level or higher." />
       <item value="Around" />
-      <item value="Evenly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="121" />
-        <entry key="ENGLISH" value="127" />
+        <entry key="CHINESE" value="122" />
+        <entry key="ENGLISH" value="128" />
         <entry key="FRENCH" value="6" />
         <entry key="JAPANESE" value="2" />
       </map>
