@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="2045 e 83 b 9 ae 4" />
       <item value="parameter[&quot;imei&quot;] = tm.deviceId" />
       <item value="requireActivity() as MainActivity" />
       <item value="significant" />
@@ -50,12 +51,11 @@
       <item value="Better not holding vm" />
       <item value="topic" />
       <item value="System overlays should be drawn with a light color. Intended for /// applications with a dark background." />
-      <item value="For example, the color might be bright white, requiring black text." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="127" />
-        <entry key="ENGLISH" value="133" />
+        <entry key="CHINESE" value="128" />
+        <entry key="ENGLISH" value="134" />
         <entry key="FRENCH" value="6" />
         <entry key="JAPANESE" value="2" />
       </map>
