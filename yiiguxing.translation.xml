@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="parameter[&quot;imei&quot;] = tm.deviceId" />
       <item value="requireActivity() as MainActivity" />
       <item value="significant" />
       <item value="configure db browser port" />
@@ -50,12 +51,11 @@
       <item value="topic" />
       <item value="System overlays should be drawn with a light color. Intended for /// applications with a dark background." />
       <item value="For example, the color might be bright white, requiring black text." />
-      <item value="Starting a blocking GC Explicit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="126" />
-        <entry key="ENGLISH" value="132" />
+        <entry key="CHINESE" value="127" />
+        <entry key="ENGLISH" value="133" />
         <entry key="FRENCH" value="6" />
         <entry key="JAPANESE" value="2" />
       </map>
@@ -65,7 +65,6 @@
     <option name="lastTrimTime" value="1609401535148" />
   </component>
   <component name="Settings">
-    <option name="ignoreRegExp" value="" />
     <option name="translator" value="YOUDAO" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
