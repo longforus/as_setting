@@ -23,6 +23,7 @@
     <keyboard-shortcut first-keystroke="home" />
     <keyboard-shortcut first-keystroke="meta left" />
   </action>
+  <action id="ExecuteInPyConsoleAction" />
   <action id="ExternalTools_External Tools">
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
@@ -38,6 +39,9 @@
   </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="meta n" />
+  </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="shift ctrl e" />
   </action>
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="ctrl enter" />
