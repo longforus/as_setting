@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="5.0 - (surplusFsizeCount &gt; 5 ? 0.0 : 5 - surplusFsizeCount)" />
+      <item value="(surplusFsizeCount &gt; 5 ? 0.0 : 5 - surplusFsizeCount)5.0100" />
       <item value="Hint: If you are connecting to a Bluetooth serial board then try using the well-known SPP UUID 00001101-0000-1000-8000-00805F9B34FB. However if you are connecting to an Android peer then please generate your own unique UUID." />
       <item value="well-known" />
       <item value="2045 e 83 b 9 ae 4" />
@@ -49,15 +51,14 @@
       <item value="Send identify request buf to server" />
       <item value="// Allow you to block all tasks which need to be sent before certain 'AUTHENTICATED' actions // Usually we use this to exchange encryption keys, sessions, etc." />
       <item value="Access denied finding property &quot;net.dns2&quot;" />
-      <item value="report Task Profile" />
-      <item value="Better not holding vm" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="130" />
+        <entry key="CHINESE" value="133" />
         <entry key="ENGLISH" value="136" />
         <entry key="FRENCH" value="6" />
         <entry key="JAPANESE" value="2" />
+        <entry key="INDONESIAN" value="3" />
       </map>
     </option>
   </component>
