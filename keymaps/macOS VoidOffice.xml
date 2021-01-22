@@ -23,6 +23,9 @@
     <keyboard-shortcut first-keystroke="home" />
     <keyboard-shortcut first-keystroke="meta left" />
   </action>
+  <action id="EditorToggleInsertState">
+    <keyboard-shortcut first-keystroke="help" />
+  </action>
   <action id="ExecuteInPyConsoleAction" />
   <action id="ExternalTools_External Tools">
     <keyboard-shortcut first-keystroke="alt enter" />
