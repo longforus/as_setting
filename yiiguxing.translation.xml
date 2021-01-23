@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="passport" />
       <item value="et receiver addr.set Text(sb.to String())" />
       <item value="float measureText = textPaint.measureText(tipsText); canvas.drawText(tipsText, width 2 - measureText 2, 50, textPaint);" />
       <item value="recipient" />
@@ -50,12 +51,11 @@
       <item value="You either need MANAGE_USERS or CREATE_USERS permission to: query users" />
       <item value="process to have appropriate permissions." />
       <item value="to prevent this event from being propagated * further," />
-      <item value="malformed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="136" />
-        <entry key="ENGLISH" value="139" />
+        <entry key="CHINESE" value="137" />
+        <entry key="ENGLISH" value="140" />
         <entry key="FRENCH" value="6" />
         <entry key="JAPANESE" value="2" />
         <entry key="INDONESIAN" value="3" />
