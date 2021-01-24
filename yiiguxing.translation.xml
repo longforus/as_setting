@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="m Pop.is Showing" />
       <item value="suffix" />
       <item value="If this string ends with the given [suffix], returns a copy of this string" />
       <item value="translate" />
@@ -50,12 +51,11 @@
       <item value="dispose" />
       <item value="shaders" />
       <item value="You will no longer be able to disable R8" />
-      <item value="Comparison method violates its general contract!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="140" />
-        <entry key="ENGLISH" value="143" />
+        <entry key="CHINESE" value="141" />
+        <entry key="ENGLISH" value="144" />
         <entry key="FRENCH" value="6" />
         <entry key="JAPANESE" value="2" />
         <entry key="INDONESIAN" value="3" />
