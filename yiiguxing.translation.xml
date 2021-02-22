@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dbStartStep1(partition.first, brandCode)" />
       <item value="camera.get Parameters();" />
       <item value="terminal" />
       <item value="val ins = cr.openFileDescriptor(itemUri, &quot;r&quot;)" />
@@ -50,12 +51,11 @@
       <item value="/ Note: we need to use allowStateLoss, because the dialog // dispatches this asynchronously so we can receive the call // after the activity is paused. Worst case, when the user comes // back to the activity they see the dialog again." />
       <item value="It should not be treated as an error" />
       <item value="Retains" />
-      <item value="intersect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="144" />
-        <entry key="ENGLISH" value="146" />
+        <entry key="CHINESE" value="145" />
+        <entry key="ENGLISH" value="147" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="JAPANESE" value="2" />
