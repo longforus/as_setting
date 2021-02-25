@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="item.remark?.let { CustomDialog.Builder(this).setContentView(R.layout.dialog_no_choice_layout_height).setText(R.id.tv_title, &quot;注意&quot;) .setText(R.id.tv_content, it).addAction(R.id.tv_left, &quot;确定&quot;) .show() }" />
       <item value="debugPrintThrottled(message.toString(), wrapWidth: wrapWidth);" />
       <item value="Implementation of [debugPrint] that throttles messages. This avoids dropping messages on platforms that rate-limit their logging (for example, Android)." />
       <item value="dbStartStep1(partition.first, brandCode)" />
@@ -50,12 +51,11 @@
       <item value="The string of characters to output when this key is pressed." />
       <item value="Key is anchored to the right of the keyboard." />
       <item value="Key is anchored to the left of the keyboard" />
-      <item value="/ Note: we need to use allowStateLoss, because the dialog // dispatches this asynchronously so we can receive the call // after the activity is paused. Worst case, when the user comes // back to the activity they see the dialog again." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="147" />
-        <entry key="ENGLISH" value="149" />
+        <entry key="CHINESE" value="148" />
+        <entry key="ENGLISH" value="150" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="JAPANESE" value="2" />
@@ -64,7 +64,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1613702605058" />
+    <option name="lastTrimTime" value="1614217232461" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
