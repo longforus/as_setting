@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Pull Task.get Instance().pull()" />
       <item value="TagAliasOperatorHelper.getInstance().aliasOrTag(14444, TagAliasBean().apply { action = TagAliasOperatorHelper.ACTION_SET isAliasAction = false this.tags = tags })" />
       <item value="on Rec(-1)" />
       <item value="co.resume(it)" />
@@ -50,7 +51,6 @@
       <item value="false if entering this * mode should be aborted." />
       <item value="The number of characters before the cursor to be deleted, in code unit. * If this is greater than the number of existing characters between the beginning of the * text and the cursor, then this method does not fail but deletes all the characters in * that range." />
       <item value="Surrounding" />
-      <item value="e Surrounding" />
     </histories>
     <option name="languageScores">
       <map>
