@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TagAliasOperatorHelper.getInstance().aliasOrTag(14444, TagAliasBean().apply { action = TagAliasOperatorHelper.ACTION_SET isAliasAction = false this.tags = tags })" />
       <item value="on Rec(-1)" />
       <item value="co.resume(it)" />
       <item value="item.remark?.let { CustomDialog.Builder(this).setContentView(R.layout.dialog_no_choice_layout_height).setText(R.id.tv_title, &quot;注意&quot;) .setText(R.id.tv_content, it).addAction(R.id.tv_left, &quot;确定&quot;) .show() }" />
@@ -50,12 +51,11 @@
       <item value="The number of characters before the cursor to be deleted, in code unit. * If this is greater than the number of existing characters between the beginning of the * text and the cursor, then this method does not fail but deletes all the characters in * that range." />
       <item value="Surrounding" />
       <item value="e Surrounding" />
-      <item value="The string of characters to output when this key is pressed." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="150" />
-        <entry key="ENGLISH" value="152" />
+        <entry key="CHINESE" value="151" />
+        <entry key="ENGLISH" value="153" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="JAPANESE" value="2" />
@@ -64,7 +64,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1614217232461" />
+    <option name="lastTrimTime" value="1614665249738" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
