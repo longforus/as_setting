@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Get the technology-specific signal strength in Arbitrary Strength Units, calculated from the strength of the pilot signal or equivalent." />
+      <item value="excellent" />
       <item value="Signal Strength" />
       <item value="signal strength" />
       <item value="quotes" />
@@ -49,13 +51,11 @@
       <item value="Criteria" />
       <item value="Backoff" />
       <item value="set Backoff Criteria" />
-      <item value="Terminal flow operator that collects the given flow with a provided [action]. * If any exception occurs during collect or in the provided flow, this exception is rethrown from this method." />
-      <item value="analogue" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="154" />
-        <entry key="ENGLISH" value="156" />
+        <entry key="CHINESE" value="156" />
+        <entry key="ENGLISH" value="158" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="JAPANESE" value="2" />
