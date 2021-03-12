@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tts default synth" />
       <item value="proposed" />
       <item value="Get the technology-specific signal strength in Arbitrary Strength Units, calculated from the strength of the pilot signal or equivalent." />
       <item value="excellent" />
@@ -50,12 +51,11 @@
       <item value="whether" />
       <item value="EXPONENTIAL" />
       <item value="Criteria" />
-      <item value="Backoff" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="157" />
-        <entry key="ENGLISH" value="159" />
+        <entry key="CHINESE" value="158" />
+        <entry key="ENGLISH" value="160" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="JAPANESE" value="2" />
