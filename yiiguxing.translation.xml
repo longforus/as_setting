@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cacheObject.validTill == null || cacheObject.validTill.isBefore(new DateTime.now())" />
       <item value="indeterminate" />
       <item value="tts default synth" />
       <item value="proposed" />
@@ -50,14 +51,13 @@
       <item value="Resumes this continuation with the specified `value` and calls the specified `onCancellation` handler when either resumed too late (when continuation was already cancelled) or, although resumed successfully (before cancellation), the coroutine's job was cancelled before it had a chance to run in its dispatcher, so that the suspended function threw an exception instead of returning this value." />
       <item value="Word" />
       <item value="whether" />
-      <item value="EXPONENTIAL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="159" />
+        <entry key="CHINESE" value="160" />
         <entry key="ENGLISH" value="161" />
         <entry key="POLISH" value="1" />
-        <entry key="FRENCH" value="6" />
+        <entry key="FRENCH" value="7" />
         <entry key="JAPANESE" value="2" />
         <entry key="INDONESIAN" value="3" />
       </map>
