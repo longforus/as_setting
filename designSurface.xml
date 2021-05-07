@@ -4,6 +4,8 @@
       <map>
         <entry key="app/src/main/res/layout/activity_about.xml" value="0.1921875" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.20425724637681159" />
+        <entry key="app/src/xm/res/drawable/sp_btn_login_bg.xml" value="0.33425925925925926" />
+        <entry key="app/src/xm/res/drawable/sp_btn_login_bg_sm.xml" value="0.33425925925925926" />
         <entry key="app/src/xm/res/layout/activity_login.xml" value="0.1921875" />
       </map>
     </option>
