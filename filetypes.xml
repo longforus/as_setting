@@ -1,17 +1,16 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="webp" type="Image" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern=".metadata" type="PLAIN_TEXT" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="note" type="PLAIN_TEXT" />
-      <mapping pattern="xposed_init" type="PLAIN_TEXT" />
-      <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping pattern="prefs" type="PLAIN_TEXT" />
-      <mapping ext="wav" type="PLAIN_TEXT" />
-      <mapping ext="bcp" type="PLAIN_TEXT" />
+      <mapping pattern=".metadata" type="PLAIN_TEXT" />
+      <mapping pattern="readme" type="PLAIN_TEXT" />
+      <mapping pattern="xposed_init" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="bcp" type="PLAIN_TEXT" />
+      <mapping ext="wav" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

@@ -1,12 +1,13 @@
 <application>
   <component name="CodeInsightSettings">
+    <option name="completionCaseSensitive" value="2" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
   </component>
   <component name="DaemonCodeAnalyzerSettings" profile="Square" />
-  <component name="DefaultFont">
-    <option name="FONT_SIZE" value="13" />
-  </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="KotlinReferencesTypeHintsProvider" />
   </component>
 </application>
