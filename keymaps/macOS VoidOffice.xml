@@ -26,6 +26,7 @@
   <action id="EditorToggleInsertState">
     <keyboard-shortcut first-keystroke="help" />
   </action>
+  <action id="EmojiAndSymbols" />
   <action id="ExecuteInPyConsoleAction" />
   <action id="ExternalTools_External Tools">
     <keyboard-shortcut first-keystroke="alt enter" />
@@ -41,6 +42,8 @@
     <keyboard-shortcut first-keystroke="meta n" />
     <keyboard-shortcut first-keystroke="meta help" />
   </action>
+  <action id="MethodDown" />
+  <action id="MethodUp" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
