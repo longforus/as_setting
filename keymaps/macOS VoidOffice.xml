@@ -6,6 +6,7 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
+  <action id="ChangesView.Move" />
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
     <keyboard-shortcut first-keystroke="shift ctrl divide" />
@@ -23,6 +24,8 @@
     <keyboard-shortcut first-keystroke="home" />
     <keyboard-shortcut first-keystroke="meta left" />
   </action>
+  <action id="EditorLookupDown" />
+  <action id="EditorLookupUp" />
   <action id="EditorToggleInsertState">
     <keyboard-shortcut first-keystroke="help" />
   </action>
@@ -42,14 +45,24 @@
     <keyboard-shortcut first-keystroke="meta n" />
     <keyboard-shortcut first-keystroke="meta help" />
   </action>
+  <action id="GotoAction" />
   <action id="MethodDown" />
   <action id="MethodUp" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
+  <action id="NextEditorTab" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+  </action>
+  <action id="PreviousEditorTab" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+  </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="shift ctrl e" />
   </action>
+  <action id="ShowContent" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
@@ -60,6 +73,7 @@
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
+  <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="Vcs.UpdateProject" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta e" />
