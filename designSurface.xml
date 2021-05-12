@@ -48,6 +48,7 @@
         <entry key="app/src/main/res/layout/dialog_full_screen.xml" value="0.36153846153846153" />
         <entry key="app/src/main/res/layout/dialog_gun_layout.xml" value="0.36153846153846153" />
         <entry key="app/src/main/res/layout/dialog_nwe_user_welfare.xml" value="0.36153846153846153" />
+        <entry key="app/src/main/res/layout/dialog_remaining_low.xml" value="0.36153846153846153" />
         <entry key="app/src/main/res/layout/dialog_repeat_layout.xml" value="0.36153846153846153" />
         <entry key="app/src/main/res/layout/dialog_scene_layout.xml" value="0.36153846153846153" />
         <entry key="app/src/main/res/layout/dialog_select_brand.xml" value="0.3333333333333333" />
@@ -68,6 +69,7 @@
         <entry key="projectCore/src/main/res/drawable/selector_btn_round_0d_e9.xml" value="0.38229166666666664" />
         <entry key="projectCore/src/main/res/drawable/selector_btn_round_66_0d.xml" value="0.38229166666666664" />
         <entry key="projectCore/src/main/res/drawable/shape_ff_bg.xml" value="0.37407407407407406" />
+        <entry key="projectCore/src/main/res/drawable/shape_tv_0d_round.xml" value="0.38229166666666664" />
         <entry key="projectCore/src/main/res/drawable/shape_tv_e9_round.xml" value="0.38229166666666664" />
         <entry key="projectCore/src/main/res/layout/dialog_choice_layout.xml" value="0.36153846153846153" />
         <entry key="projectCore/src/main/res/layout/dialog_img_choice_layout.xml" value="0.36153846153846153" />
