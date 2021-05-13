@@ -3,6 +3,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-v21/ic_menu_manage.xml" value="0.36256410256410254" />
         <entry key="app/src/main/res/drawable/checkbox_selector.xml" value="0.38229166666666664" />
         <entry key="app/src/main/res/drawable/selector_0d_99_stroke.xml" value="0.3764102564102564" />
         <entry key="app/src/main/res/drawable/selector_0d_ff_stroke.xml" value="0.3764102564102564" />
@@ -75,6 +76,10 @@
         <entry key="app/src/main/res/layout/item_mine.xml" value="0.3671875" />
         <entry key="app/src/main/res/layout/item_new_user_select_brand.xml" value="0.3671875" />
         <entry key="app/src/main/res/layout/item_work.xml" value="0.36153846153846153" />
+        <entry key="app/src/main/res/layout/layout_scan_edittext.xml" value="0.3611111111111111" />
+        <entry key="app/src/main/res/layout/view_guide_flow1.xml" value="0.34444444444444444" />
+        <entry key="app/src/main/res/layout/view_guide_flow2.xml" value="0.34444444444444444" />
+        <entry key="app/src/main/res/layout/view_guide_flow3.xml" value="0.34444444444444444" />
         <entry key="app/src/xm/res/drawable/sp_btn_login_bg.xml" value="0.33425925925925926" />
         <entry key="app/src/xm/res/drawable/sp_btn_login_bg_sm.xml" value="0.33425925925925926" />
         <entry key="app/src/xm/res/layout/activity_login.xml" value="0.36153846153846153" />
