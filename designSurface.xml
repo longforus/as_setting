@@ -34,14 +34,16 @@
         <entry key="app/src/main/res/drawable/shape_tv_blue_round_small.xml" value="0.3764102564102564" />
         <entry key="app/src/main/res/drawable/shape_tv_f2_round.xml" value="0.38229166666666664" />
         <entry key="app/src/main/res/drawable/shape_tv_ff_round.xml" value="0.3764102564102564" />
-        <entry key="app/src/main/res/drawable/splash_bg.xml" value="0.30648148148148147" />
-        <entry key="app/src/main/res/drawable/splash_button_bg.xml" value="0.3764102564102564" />
+        <entry key="app/src/main/res/drawable/splash_bg.xml" value="0.38229166666666664" />
+        <entry key="app/src/main/res/drawable/splash_button_bg.xml" value="0.38229166666666664" />
+        <entry key="app/src/main/res/drawable/switch_thumb.xml" value="0.38229166666666664" />
         <entry key="app/src/main/res/drawable/switch_track.xml" value="0.3764102564102564" />
         <entry key="app/src/main/res/layout-v23/frag_work.xml" value="0.36153846153846153" />
         <entry key="app/src/main/res/layout/activity_about.xml" value="0.36153846153846153" />
         <entry key="app/src/main/res/layout/activity_account_anagement.xml" value="0.3671875" />
         <entry key="app/src/main/res/layout/activity_account_edit.xml" value="0.36153846153846153" />
         <entry key="app/src/main/res/layout/activity_account_edit_new.xml" value="0.3671875" />
+        <entry key="app/src/main/res/layout/activity_account_management.xml" value="0.20885416666666667" />
         <entry key="app/src/main/res/layout/activity_account_relevance.xml" value="0.36153846153846153" />
         <entry key="app/src/main/res/layout/activity_active.xml" value="0.36153846153846153" />
         <entry key="app/src/main/res/layout/activity_assist.xml" value="0.36153846153846153" />
@@ -58,6 +60,7 @@
         <entry key="app/src/main/res/layout/activity_login_sm.xml" value="0.3671875" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.36153846153846153" />
         <entry key="app/src/main/res/layout/activity_new_user_select_brand.xml" value="0.3671875" />
+        <entry key="app/src/main/res/layout/activity_only_fc.xml" value="0.36153846153846153" />
         <entry key="app/src/main/res/layout/activity_scan_record.xml" value="0.36153846153846153" />
         <entry key="app/src/main/res/layout/activity_setting_security.xml" value="0.36153846153846153" />
         <entry key="app/src/main/res/layout/activity_sign_type_page.xml" value="0.16770833333333332" />
@@ -82,6 +85,7 @@
         <entry key="app/src/main/res/layout/frag_sign_info.xml" value="0.36153846153846153" />
         <entry key="app/src/main/res/layout/frag_sign_order_list.xml" value="0.2898148148148148" />
         <entry key="app/src/main/res/layout/frag_signed_brand_count.xml" value="0.36153846153846153" />
+        <entry key="app/src/main/res/layout/frag_work.xml" value="0.36153846153846153" />
         <entry key="app/src/main/res/layout/item_brand_sign.xml" value="0.36153846153846153" />
         <entry key="app/src/main/res/layout/item_brand_sign_simple.xml" value="0.36153846153846153" />
         <entry key="app/src/main/res/layout/item_login_exception.xml" value="0.36153846153846153" />
@@ -94,6 +98,7 @@
         <entry key="app/src/main/res/layout/view_guide_flow1.xml" value="0.34444444444444444" />
         <entry key="app/src/main/res/layout/view_guide_flow2.xml" value="0.34444444444444444" />
         <entry key="app/src/main/res/layout/view_guide_flow3.xml" value="0.34444444444444444" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.36153846153846153" />
         <entry key="app/src/xm/res/drawable/sp_btn_login_bg.xml" value="0.33425925925925926" />
         <entry key="app/src/xm/res/drawable/sp_btn_login_bg_sm.xml" value="0.33425925925925926" />
         <entry key="app/src/xm/res/layout/activity_login.xml" value="0.3671875" />
