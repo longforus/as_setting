@@ -3,7 +3,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
-        <entry key="../../.gradle/caches/transforms-2/files-2.1/165f18fdb032e3436ad3bed48c6c6e68/jetified-qmui-1.4.4/res/layout/qmui_tip_dialog_layout.xml" value="0.1" />
+        <entry key="../../.gradle/caches/transforms-2/files-2.1/165f18fdb032e3436ad3bed48c6c6e68/jetified-qmui-1.4.4/res/layout/qmui_tip_dialog_layout.xml" value="0.36153846153846153" />
         <entry key="app/src/main/res/drawable-v21/ic_menu_manage.xml" value="0.36256410256410254" />
         <entry key="app/src/main/res/drawable/checkbox_selector.xml" value="0.38229166666666664" />
         <entry key="app/src/main/res/drawable/selector_0d_99_stroke.xml" value="0.38229166666666664" />
@@ -138,6 +138,7 @@
         <entry key="projectCore/src/main/res/layout/item_network_state.xml" value="0.36153846153846153" />
         <entry key="projectCore/src/main/res/layout/item_recharge.xml" value="0.36153846153846153" />
         <entry key="projectCore/src/main/res/layout/item_select_img.xml" value="0.36153846153846153" />
+        <entry key="projectCore/src/main/res/layout/layout_toast.xml" value="0.36153846153846153" />
       </map>
     </option>
   </component>
