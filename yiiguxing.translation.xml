@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="include" />
+      <item value="inclued" />
       <item value="it.retail Type==&quot;1&quot;" />
       <item value="qualifier" />
       <item value="This is an internal kotlinx.coroutines API that should not be used from outside of kotlinx.coroutines. No compatibility guarantees are provided.It is recommended to report your use-case of internal API to kotlinx.coroutines issue tracker, so stable API could be provided instead" />
@@ -49,8 +51,6 @@
       <item value="significant" />
       <item value="configure db browser port" />
       <item value="device Locker Data" />
-      <item value="Parcelize" />
-      <item value="Parcel Creator" />
     </histories>
     <option name="languageScores">
       <map>
