@@ -143,6 +143,9 @@
         <entry key="projectCore/src/main/res/layout/item_recharge.xml" value="0.36153846153846153" />
         <entry key="projectCore/src/main/res/layout/item_select_img.xml" value="0.36153846153846153" />
         <entry key="projectCore/src/main/res/layout/layout_toast.xml" value="0.36153846153846153" />
+        <entry key="smKeyboard/src/main/res/drawable/bg_key_preview.xml" value="0.38229166666666664" />
+        <entry key="smKeyboard/src/main/res/drawable/btn_keyboard_gray.xml" value="0.38229166666666664" />
+        <entry key="smKeyboard/src/main/res/layout/keyboard_preview.xml" value="0.36153846153846153" />
       </map>
     </option>
   </component>
