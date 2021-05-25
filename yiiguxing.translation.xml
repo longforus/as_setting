@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="delete On Exit" />
+      <item value="barHolder.mTvTitle?.text = mImgPaths[0].wayBillNo" />
       <item value="include" />
       <item value="inclued" />
       <item value="it.retail Type==&quot;1&quot;" />
@@ -49,8 +51,6 @@
       <item value="parameter[&quot;imei&quot;] = tm.deviceId" />
       <item value="requireActivity() as MainActivity" />
       <item value="significant" />
-      <item value="configure db browser port" />
-      <item value="device Locker Data" />
     </histories>
     <option name="languageScores">
       <map>

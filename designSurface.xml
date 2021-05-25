@@ -71,6 +71,7 @@
         <entry key="app/src/main/res/layout/activity_scan_qr.xml" value="0.20572916666666666" />
         <entry key="app/src/main/res/layout/activity_scan_record.xml" value="0.36153846153846153" />
         <entry key="app/src/main/res/layout/activity_setting_security.xml" value="0.36153846153846153" />
+        <entry key="app/src/main/res/layout/activity_sign_order_sheet_preview.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_sign_type_page.xml" value="0.16770833333333332" />
         <entry key="app/src/main/res/layout/activity_sms_balance.xml" value="0.36153846153846153" />
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.36153846153846153" />
