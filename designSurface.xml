@@ -6,7 +6,7 @@
         <entry key="../../.gradle/caches/transforms-2/files-2.1/165f18fdb032e3436ad3bed48c6c6e68/jetified-qmui-1.4.4/res/drawable/qmui_list_item_bg_with_border_bottom_inset.xml" value="0.3764102564102564" />
         <entry key="../../.gradle/caches/transforms-2/files-2.1/165f18fdb032e3436ad3bed48c6c6e68/jetified-qmui-1.4.4/res/drawable/qmui_tip_dialog_bg.xml" value="0.3764102564102564" />
         <entry key="../../.gradle/caches/transforms-2/files-2.1/165f18fdb032e3436ad3bed48c6c6e68/jetified-qmui-1.4.4/res/layout/qmui_tip_dialog_layout.xml" value="0.36153846153846153" />
-        <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/layout/activity_login.xml" value="0.2006340579710145" />
+        <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/layout/activity_login.xml" value="0.287962962962963" />
         <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/layout/activity_search_order.xml" value="0.190625" />
         <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/layout/activity_to_package.xml" value="0.2824074074074074" />
         <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/layout/dialog_remaining_low.xml" value="0.1802536231884058" />
@@ -17,6 +17,8 @@
         <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/layout/item_courier.xml" value="0.2824074074074074" />
         <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/layout/layout_sheet_record_empty.xml" value="0.1203125" />
         <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/layout/layout_sign_type_empty.xml" value="0.190625" />
+        <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/person/res/drawable/sp_btn_login_bg.xml" value="0.33055555555555555" />
+        <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/person/res/drawable/sp_btn_login_bg_sm.xml" value="0.33055555555555555" />
         <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/person/res/layout/activity_login.xml" value="0.17401215805471124" />
         <entry key="app/src/main/res/drawable-v21/ic_menu_manage.xml" value="0.36256410256410254" />
         <entry key="app/src/main/res/drawable/checkbox_selector.xml" value="0.38229166666666664" />
