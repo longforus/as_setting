@@ -7,10 +7,17 @@
         <entry key="../../.gradle/caches/transforms-2/files-2.1/165f18fdb032e3436ad3bed48c6c6e68/jetified-qmui-1.4.4/res/drawable/qmui_tip_dialog_bg.xml" value="0.3764102564102564" />
         <entry key="../../.gradle/caches/transforms-2/files-2.1/165f18fdb032e3436ad3bed48c6c6e68/jetified-qmui-1.4.4/res/layout/qmui_tip_dialog_layout.xml" value="0.36153846153846153" />
         <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/drawable/navigation_cabinet_drawable.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/drawable/navigation_discover_drawable.xml" value="0.3729166666666667" />
         <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/drawable/pb_bg_check_order.xml" value="0.24351851851851852" />
+        <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/drawable/selector_shape_tv_round_99.xml" value="0.3729166666666667" />
+        <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/drawable/shape_comment_edit_bg.xml" value="0.3729166666666667" />
+        <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/drawable/shape_determine_login_blue_round.xml" value="0.3729166666666667" />
+        <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/drawable/shape_drafts_type_bg.xml" value="0.3729166666666667" />
+        <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/drawable/shape_green_bg.xml" value="0.3729166666666667" />
         <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/drawable/splash_bg.xml" value="0.20572916666666666" />
         <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/layout-v23/frag_work.xml" value="0.3578125" />
         <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/layout/activity_about.xml" value="0.3111111111111111" />
+        <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/layout/activity_cabinet_login_confirm.xml" value="0.3578125" />
         <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/layout/activity_login.xml" value="0.3111111111111111" />
         <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/layout/activity_main.xml" value="0.3111111111111111" />
         <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/layout/activity_record_sheet.xml" value="0.3111111111111111" />
@@ -37,6 +44,7 @@
         <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/person/res/layout/activity_login.xml" value="0.17401215805471124" />
         <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/person/res/layout/frag_work.xml" value="0.3578125" />
         <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/yks/res/menu/bottom_nav_menu.xml" value="0.1" />
+        <entry key="..\:/Users/void/demo/smcabinet/app/src/main/res/layout/activity_scan.xml" value="0.3578125" />
         <entry key="app/src/main/res/drawable-v21/ic_menu_manage.xml" value="0.36256410256410254" />
         <entry key="app/src/main/res/drawable/checkbox_selector.xml" value="0.38229166666666664" />
         <entry key="app/src/main/res/drawable/selector_0d_99_stroke.xml" value="0.38229166666666664" />
