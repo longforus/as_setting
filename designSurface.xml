@@ -8,17 +8,23 @@
         <entry key="../../.gradle/caches/transforms-2/files-2.1/165f18fdb032e3436ad3bed48c6c6e68/jetified-qmui-1.4.4/res/layout/qmui_tip_dialog_layout.xml" value="0.36153846153846153" />
         <entry key="..\:/Users/void/.gradle/caches/transforms-2/files-2.1/ab5e4266a35e339d1f6220021299db6c/appcompat-1.3.0-alpha01/res/layout/abc_screen_simple.xml" value="0.19895833333333332" />
         <entry key="..\:/Users/void/AndroidStudioProjects/OneKeyReinforceAndPatch/app/src/main/res/layout/activity_main.xml" value="0.33794871794871795" />
+        <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/drawable/navigation_business_drawable.xml" value="0.1373873873873874" />
         <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/drawable/navigation_cabinet_drawable.xml" value="0.20572916666666666" />
         <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/drawable/navigation_discover_drawable.xml" value="0.3729166666666667" />
         <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/drawable/navigation_main_drawable.xml" value="0.1810810810810811" />
         <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/drawable/navigation_mine_drawable.xml" value="0.1810810810810811" />
         <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/drawable/pb_bg_check_order.xml" value="0.24351851851851852" />
+        <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/drawable/selector_brand_bs.xml" value="0.1373873873873874" />
+        <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/drawable/selector_brand_fw.xml" value="0.1373873873873874" />
+        <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/drawable/selector_brand_uc.xml" value="0.1373873873873874" />
+        <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/drawable/selector_brand_yt.xml" value="0.1373873873873874" />
         <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/drawable/selector_sdt.xml" value="0.31822222222222224" />
         <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/drawable/selector_shape_tv_round_99.xml" value="0.3729166666666667" />
         <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/drawable/shape_comment_edit_bg.xml" value="0.3729166666666667" />
         <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/drawable/shape_determine_login_blue_round.xml" value="0.3729166666666667" />
         <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/drawable/shape_drafts_type_bg.xml" value="0.3729166666666667" />
         <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/drawable/shape_green_bg.xml" value="0.3729166666666667" />
+        <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/drawable/shape_vertical_blue_line.xml" value="0.18513513513513513" />
         <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/drawable/splash_bg.xml" value="0.20572916666666666" />
         <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/layout-v23/frag_cabinet.xml" value="0.287962962962963" />
         <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/layout-v23/frag_work.xml" value="0.3578125" />
@@ -34,7 +40,7 @@
         <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/layout/activity_search_order.xml" value="0.190625" />
         <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/layout/activity_sms_balance.xml" value="0.16801801801801802" />
         <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/layout/activity_splash.xml" value="0.20092592592592592" />
-        <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/layout/activity_to_package.xml" value="0.2824074074074074" />
+        <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/layout/activity_to_package.xml" value="0.30533333333333335" />
         <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/layout/dialog_recharge.xml" value="0.3523076923076923" />
         <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/layout/dialog_remaining_low.xml" value="0.3578125" />
         <entry key="..\:/Users/void/StudioProjects/shunmiaoflutter/app/src/main/res/layout/frag_business.xml" value="0.287962962962963" />
