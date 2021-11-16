@@ -2,7 +2,7 @@
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="description" />
-    <property name="modified">2021-06-17T11:27:03</property>
+    <property name="modified">2021-11-16T17:20:53</property>
     <property name="vendorMail">longforus@126.com</property>
     <property name="vendorName">void</property>
     <property name="vendorUrl">https://github.com/longforus</property>
@@ -90,6 +90,11 @@
     <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="5253ff" />
+      </value>
+    </option>
+    <option name="ARROW">
+      <value>
+        <option name="FOREGROUND" value="2eefda" />
       </value>
     </option>
     <option name="BAD_CHARACTER">
@@ -569,6 +574,12 @@
         <option name="ERROR_STRIPE_COLOR" value="43698d" />
       </value>
     </option>
+    <option name="DIRECTIVE">
+      <value>
+        <option name="FOREGROUND" value="c1ff91" />
+        <option name="BACKGROUND" value="293134" />
+      </value>
+    </option>
     <option name="DOC_COMMENT_TAG_VALUE">
       <value>
         <option name="FOREGROUND" value="a082bd" />
@@ -853,6 +864,11 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="LITERAL">
+      <value>
+        <option name="FOREGROUND" value="33ee33" />
+      </value>
+    </option>
     <option name="LOGCAT_DEBUG_OUTPUT">
       <value>
         <option name="FOREGROUND" value="96b5ce" />
@@ -940,6 +956,11 @@
         <option name="FOREGROUND" value="896af4" />
       </value>
     </option>
+    <option name="ODEX_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="67b3ff" />
+      </value>
+    </option>
     <option name="PARAMETER_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="448c00" />
@@ -993,6 +1014,11 @@
         <option name="ERROR_STRIPE_COLOR" value="a74c0" />
       </value>
     </option>
+    <option name="TYPE">
+      <value>
+        <option name="FOREGROUND" value="9971ff" />
+      </value>
+    </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="e8ffd5" />
@@ -1015,6 +1041,12 @@
         <option name="FOREGROUND" value="848484" />
         <option name="EFFECT_COLOR" value="808080" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="VERIFICATION_ERROR_TYPE">
+      <value>
+        <option name="FOREGROUND" value="fc8253" />
+        <option name="BACKGROUND" value="293134" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">
