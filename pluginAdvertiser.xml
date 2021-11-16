@@ -1125,9 +1125,8 @@
         <entry key="*.smali">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.android.tools.idea.smali" />
-              <option name="myPluginName" value="Smali Support" />
-              <option name="myBundled" value="true" />
+              <option name="myPluginId" value="org.jf.smalidea" />
+              <option name="myPluginName" value="Smalidea" />
             </plugin>
           </value>
         </entry>
