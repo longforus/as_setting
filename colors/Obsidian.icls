@@ -2,7 +2,7 @@
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="description" />
-    <property name="modified">2021-11-16T17:20:53</property>
+    <property name="modified">2021-11-17T10:34:23</property>
     <property name="vendorMail">longforus@126.com</property>
     <property name="vendorName">void</property>
     <property name="vendorUrl">https://github.com/longforus</property>
@@ -75,6 +75,12 @@
         <option name="FOREGROUND" value="1ec63d" />
         <option name="EFFECT_COLOR" value="3c3f41" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ACCESS">
+      <value>
+        <option name="FOREGROUND" value="94f845" />
+        <option name="BACKGROUND" value="293134" />
       </value>
     </option>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
