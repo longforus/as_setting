@@ -1,5 +1,8 @@
 <application>
   <component name="DataService">
-    <option name="function" value="{&quot;useFolder&quot;:false,&quot;usePrefix&quot;:true,&quot;isPageView&quot;:false,&quot;autoDispose&quot;:false,&quot;addLifecycle&quot;:false,&quot;addBinding&quot;:false,&quot;lintNorm&quot;:false,&quot;funTabIndex&quot;:0}" />
+    <option name="module" value="{&quot;logicName&quot;:&quot;Logic&quot;,&quot;viewName&quot;:&quot;Component&quot;,&quot;viewFileName&quot;:&quot;View&quot;,&quot;stateName&quot;:&quot;State&quot;}" />
+    <option name="function" value="{&quot;useFolder&quot;:false,&quot;usePrefix&quot;:true,&quot;isPageView&quot;:false,&quot;autoDispose&quot;:false,&quot;addLifecycle&quot;:false,&quot;addBinding&quot;:false,&quot;lintNorm&quot;:false,&quot;funTabIndex&quot;:2}" />
+    <option name="templatePage" value="{&quot;logic&quot;:&quot;Logic&quot;,&quot;view&quot;:&quot;Page&quot;,&quot;viewFile&quot;:&quot;View&quot;,&quot;state&quot;:&quot;State&quot;,&quot;selected&quot;:false}" />
+    <option name="templateComponent" value="{&quot;logic&quot;:&quot;Logic&quot;,&quot;view&quot;:&quot;Component&quot;,&quot;viewFile&quot;:&quot;View&quot;,&quot;state&quot;:&quot;State&quot;,&quot;selected&quot;:true}" />
   </component>
 </application>
