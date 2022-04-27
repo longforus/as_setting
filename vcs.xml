@@ -422,6 +422,10 @@
           <option name="url" value="git@github.com:AnySoftKeyboard/AnySoftKeyboard.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:CarGuo/gsy_flutter_demo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\asProject\demo" />
