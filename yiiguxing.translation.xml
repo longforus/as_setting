@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="amplitude" />
       <item value="reduce" />
       <item value="elevated" />
       <item value="Cause an invalidate to happen on a subsequent cycle through the event loop. Waits for the specified amount of time. This method can be invoked from outside of the UI thread only when this View is attached to a window." />
@@ -50,12 +51,11 @@
       <item value="recipient" />
       <item value="5.0 - (surplusFsizeCount &gt; 5 ? 0.0 : 5 - surplusFsizeCount)" />
       <item value="(surplusFsizeCount &gt; 5 ? 0.0 : 5 - surplusFsizeCount)5.0100" />
-      <item value="Hint: If you are connecting to a Bluetooth serial board then try using the well-known SPP UUID 00001101-0000-1000-8000-00805F9B34FB. However if you are connecting to an Android peer then please generate your own unique UUID." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="171" />
-        <entry key="ENGLISH" value="170" />
+        <entry key="CHINESE" value="172" />
+        <entry key="ENGLISH" value="171" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="7" />
         <entry key="CZECH" value="1" />
