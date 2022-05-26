@@ -2,6 +2,7 @@
   <action id="$EditorTranslateAction">
     <keyboard-shortcut first-keystroke="alt context_menu" />
   </action>
+  <action id="$TranslateAndReplaceAction" />
   <action id="$TranslateTextComponent" />
   <action id="ActivateAndroidMonitorToolWindow">
     <keyboard-shortcut first-keystroke="alt 6" />
