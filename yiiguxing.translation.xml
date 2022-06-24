@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Descendants can override this method to customize appearance of text." />
       <item value="Creates a collapsed selection at the given offset." />
       <item value="collapsed" />
       <item value="Pads this string on the left if it is shorter than [width]." />
@@ -50,12 +51,11 @@
       <item value="val ins = cr.openFileDescriptor(itemUri, &quot;r&quot;)" />
       <item value="m Pop.is Showing" />
       <item value="suffix" />
-      <item value="If this string ends with the given [suffix], returns a copy of this string" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="179" />
-        <entry key="ENGLISH" value="178" />
+        <entry key="CHINESE" value="180" />
+        <entry key="ENGLISH" value="179" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="7" />
         <entry key="CZECH" value="1" />
