@@ -1,5 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
+    <option name="myShellPath" value="C:/Program Files/WindowsApps/Microsoft.WindowsTerminal_1.14.1963.0_x64__8wekyb3d8bbwe/WindowsTerminal.exe" />
     <option name="myTabName" value="Local" />
   </component>
 </application>
