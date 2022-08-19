@@ -5,10 +5,20 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="d8e5f129" />
+          </Key>
+        </key>
+        <name value="Xiaomi MIX 2" />
+        <target value="Android 9.0" />
+        <api value="28" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="5af2aa25" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-27T05:56:36.235629Z" />
         <name value="OPPO OPPO R11t" />
         <target value="Android 7.1.1" />
         <api value="25" />
