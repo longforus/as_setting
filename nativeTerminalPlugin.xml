@@ -1,5 +1,5 @@
 <application>
   <component name="com.sburlyaev.cmd.plugin.PluginSettings">
-    <option name="favoriteTerminal" value="C:/Git/git-bash.exe" />
+    <option name="favoriteTerminal" value="wt.exe" />
   </component>
 </application>
