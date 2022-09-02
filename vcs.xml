@@ -442,6 +442,10 @@
           <option name="url" value="git@github.com:xq19930522/flutter_bosstap.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:BlissYang91/flutter_boss.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\asProject" />
