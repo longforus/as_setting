@@ -1,0 +1,7 @@
+<templateSet group="getX">
+  <template name="getxbuilder" value="GetBuilder&lt;$Subject$Logic&gt;(&#10;  builder: (controller) {&#10;    return $Container$;&#10;  },&#10;)" description="GetBuilder widget" toReformat="false" toShortenFQNames="true">
+    <variable name="Subject" expression="" defaultValue="&quot;Subject&quot;" alwaysStopAt="true" />
+    <variable name="Container" expression="" defaultValue="&quot;Container()&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
