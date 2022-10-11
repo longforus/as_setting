@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="welfare" />
       <item value="Receipt" />
       <item value="Allow track difference between GetxServices and GetxControllers" />
       <item value="rear" />
@@ -50,12 +51,11 @@
       <item value="excellent" />
       <item value="Signal Strength" />
       <item value="signal strength" />
-      <item value="quotes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="197" />
-        <entry key="ENGLISH" value="196" />
+        <entry key="CHINESE" value="198" />
+        <entry key="ENGLISH" value="197" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="7" />
         <entry key="CZECH" value="1" />
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1664270375388" />
+    <option name="lastTrimTime" value="1665453038030" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
