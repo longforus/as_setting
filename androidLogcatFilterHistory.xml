@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:CNNHook" />
+    <option name="mostRecentlyUsed" value="package:cn.net.yto" />
     <option name="nonFavorites">
       <list>
+        <option value="package:cn.net.yto" />
+        <option value="package:com.xm.smgp" />
         <option value="tag:CNNHook" />
         <option value="CNNHook" />
-        <option value="package:com.xm.smgp" />
         <option value="package:com.xm.smgp " />
       </list>
     </option>
