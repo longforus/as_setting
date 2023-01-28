@@ -2,7 +2,7 @@
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="description" />
-    <property name="modified">2022-09-19T09:46:39</property>
+    <property name="modified">2023-01-28T11:08:43</property>
     <property name="vendorMail">longforus@126.com</property>
     <property name="vendorName">void</property>
     <property name="vendorUrl">https://github.com/longforus</property>
@@ -882,6 +882,26 @@
       <value>
         <option name="FOREGROUND" value="96b5ce" />
         <option name="BACKGROUND" value="293134" />
+      </value>
+    </option>
+    <option name="LOGCAT_FILTER_KEY">
+      <value>
+        <option name="BACKGROUND" value="913791" />
+      </value>
+    </option>
+    <option name="LOGCAT_FILTER_KVALUE">
+      <value>
+        <option name="BACKGROUND" value="913791" />
+      </value>
+    </option>
+    <option name="LOGCAT_FILTER_REGEX_KVALUE">
+      <value>
+        <option name="BACKGROUND" value="3e7e2b" />
+      </value>
+    </option>
+    <option name="LOGCAT_FILTER_STRING_KVALUE">
+      <value>
+        <option name="BACKGROUND" value="3c8f9a" />
       </value>
     </option>
     <option name="LOGCAT_INFO_OUTPUT">
