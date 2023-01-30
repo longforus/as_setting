@@ -2,7 +2,7 @@
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="description" />
-    <property name="modified">2023-01-28T11:08:43</property>
+    <property name="modified">2023-01-30T10:01:34</property>
     <property name="vendorMail">longforus@126.com</property>
     <property name="vendorName">void</property>
     <property name="vendorUrl">https://github.com/longforus</property>
@@ -912,12 +912,12 @@
     </option>
     <option name="LOGCAT_V2_MESSAGE_ASSERT">
       <value>
-        <option name="FOREGROUND" value="bfee60" />
+        <option name="FOREGROUND" value="bea5a5" />
       </value>
     </option>
     <option name="LOGCAT_V2_MESSAGE_DEBUG">
       <value>
-        <option name="FOREGROUND" value="d2b1b1" />
+        <option name="FOREGROUND" value="bea5a5" />
       </value>
     </option>
     <option name="LOGCAT_V2_MESSAGE_ERROR">
