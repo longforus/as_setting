@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="HasScanActivity" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:CNNHook level:debug " />
         <option value="HasScanActivity" />
         <option value="tag:HasScanActivity" />
         <option value="package:mine tag:HasScanActivity" />
         <option value="package:mine tag:" />
-        <option value="tag:CNNHook level:debug " />
         <option value="tag:CNNHook" />
         <option value="package:cn.net.yto" />
         <option value="package:com.xm.smgp" />
