@@ -10,7 +10,18 @@
         </key>
         <name value="Xiaomi MIX 2" />
         <target value="Android 9.0" />
-        <api value="28" />
+        <api value="androidversion:28:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="SKKNQO4TZHKBA6S4" />
+          </Key>
+        </key>
+        <name value="OPPO PACM00" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -21,7 +32,7 @@
         </key>
         <name value="OPPO OPPO R11t" />
         <target value="Android 7.1.1" />
-        <api value="25" />
+        <api value="androidversion:25:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -32,7 +43,18 @@
         </key>
         <name value="Xiaomi Redmi K20 Pro" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="b2c6788c" />
+          </Key>
+        </key>
+        <name value="Xiaomi 22081212C" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
