@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1675047901891" />
+    <option name="lastTrimTime" value="1675993704850" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -90,12 +90,13 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="WAKE LOCK" />
       <item value="add Action" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1" />
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="2" />
       </map>
     </option>
   </component>
