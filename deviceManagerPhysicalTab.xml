@@ -30,7 +30,7 @@
             <value value="5af2aa25" />
           </Key>
         </key>
-        <name value="OPPO OPPO R11t" />
+        <name value="OPPO R11t" />
         <target value="Android 7.1.1" />
         <api value="androidversion:25:null:null:true" />
       </PhysicalDevice>
