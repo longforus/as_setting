@@ -2,7 +2,7 @@
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="description" />
-    <property name="modified">2023-01-30T10:01:34</property>
+    <property name="modified">2023-03-09T14:11:38</property>
     <property name="vendorMail">longforus@126.com</property>
     <property name="vendorName">void</property>
     <property name="vendorUrl">https://github.com/longforus</property>
@@ -10,23 +10,15 @@
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_NAME" value="MesloLGM Nerd Font Mono" />
     <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Consolas" />
     <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Ubuntu" />
-    <option name="EDITOR_FONT_SIZE" value="11" />
-  </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Consolas" />
-    <option name="EDITOR_FONT_SIZE" value="11" />
-  </console-font>
-  <option name="CONSOLE_LIGATURES" value="true" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
+  <option name="CONSOLE_FONT_NAME" value="Ubuntu" />
+  <option name="CONSOLE_FONT_SIZE" value="11" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="58d155" />
     <option name="CARET_COLOR" value="bbbbbb" />
@@ -942,7 +934,7 @@
     </option>
     <option name="LOG_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="93c763" />
+        <option name="FOREGROUND" value="f11023" />
       </value>
     </option>
     <option name="LOG_EXPIRED_ENTRY">
@@ -950,9 +942,19 @@
         <option name="FOREGROUND" value="7d8c93" />
       </value>
     </option>
+    <option name="LOG_INFO_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="5088ef" />
+      </value>
+    </option>
+    <option name="LOG_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="6d6d91" />
+      </value>
+    </option>
     <option name="LOG_WARNING_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="e0e2e4" />
+        <option name="FOREGROUND" value="f1f136" />
       </value>
     </option>
     <option name="List/map to object conversion">
@@ -1052,6 +1054,11 @@
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="e0e2e4" />
+      </value>
+    </option>
+    <option name="TERMINAL_COMMAND_TO_RUN_USING_IDE">
+      <value>
+        <option name="BACKGROUND" value="224118" />
       </value>
     </option>
     <option name="TEXT">
